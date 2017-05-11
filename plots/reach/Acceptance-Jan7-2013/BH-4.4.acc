@@ -1,0 +1,3043 @@
+Trying parser
+1000
+4.4
+1
+BH
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_0_unweighted_events.lhe
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_1_unweighted_events.lhe
+==== processing /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_1_unweighted_events.lhe ====
+Found 5530 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_2_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_3_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_4_unweighted_events.lhe
+Found 7718 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_5_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_6_unweighted_events.lhe
+Found 5639 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_7_unweighted_events.lhe
+Found 7368 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_8_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_9_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_10_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_11_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_12_unweighted_events.lhe
+Found 6012 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_13_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_14_unweighted_events.lhe
+Found 7635 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_15_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_16_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_17_unweighted_events.lhe
+Found 7739 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_18_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_19_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_20_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_21_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_22_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_23_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_24_unweighted_events.lhe
+Found 7770 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_25_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_26_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_27_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_28_unweighted_events.lhe
+Found 7727 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_29_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_30_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_31_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_32_unweighted_events.lhe
+Found 7721 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_33_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_34_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_35_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_36_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_37_unweighted_events.lhe
+Found 4094 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_38_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_39_unweighted_events.lhe
+Found 8622 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_40_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_41_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_42_unweighted_events.lhe
+Found 7720 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_43_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_44_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_45_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_46_unweighted_events.lhe
+Found 7755 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_47_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_48_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_49_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_50_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_51_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_52_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_53_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_54_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_55_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_56_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_57_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_58_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_59_unweighted_events.lhe
+Found 9065 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_60_unweighted_events.lhe
+Found 5672 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_61_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_62_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_63_unweighted_events.lhe
+Found 8627 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_64_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_65_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_66_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_67_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_68_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_69_unweighted_events.lhe
+Found 7737 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_70_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_71_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_72_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_73_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_74_unweighted_events.lhe
+Found 4064 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_75_unweighted_events.lhe
+Found 7778 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_76_unweighted_events.lhe
+Found 5113 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_77_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_78_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_79_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_80_unweighted_events.lhe
+Found 7708 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_81_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_82_unweighted_events.lhe
+Found 5688 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_83_unweighted_events.lhe
+Found 5659 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_84_unweighted_events.lhe
+Found 7699 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_85_unweighted_events.lhe
+Found 4111 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_86_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_87_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_88_unweighted_events.lhe
+Found 7691 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_89_unweighted_events.lhe
+Found 7722 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_90_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_91_unweighted_events.lhe
+Found 7726 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_92_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_93_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_94_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_95_unweighted_events.lhe
+Found 7716 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_96_unweighted_events.lhe
+Found 7740 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_97_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_98_unweighted_events.lhe
+Found 5701 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_99_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_100_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_101_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_102_unweighted_events.lhe
+Found 7759 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_103_unweighted_events.lhe
+Found 9045 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_104_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_105_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_106_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_107_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_108_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_109_unweighted_events.lhe
+Found 7682 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_110_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_111_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_112_unweighted_events.lhe
+Found 7739 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_113_unweighted_events.lhe
+Found 7740 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_114_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_115_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_116_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_117_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_118_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_119_unweighted_events.lhe
+Found 7397 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_120_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_121_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_122_unweighted_events.lhe
+Found 7778 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_123_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_124_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_125_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_126_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_127_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_128_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_129_unweighted_events.lhe
+Found 9590 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_130_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_131_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_132_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_133_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_134_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_135_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_136_unweighted_events.lhe
+Found 7728 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_137_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_138_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_139_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_140_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_141_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_142_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_143_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_144_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_145_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_146_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_147_unweighted_events.lhe
+Found 5593 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_148_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_149_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_150_unweighted_events.lhe
+Found 8614 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_151_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_152_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_153_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_154_unweighted_events.lhe
+Found 7715 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_155_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_156_unweighted_events.lhe
+Found 9146 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_157_unweighted_events.lhe
+Found 8174 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_158_unweighted_events.lhe
+Found 7714 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_159_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_160_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_161_unweighted_events.lhe
+Found 7764 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_162_unweighted_events.lhe
+Found 9575 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_163_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_164_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_165_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_166_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_167_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_168_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_169_unweighted_events.lhe
+Found 7739 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_170_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_171_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_172_unweighted_events.lhe
+Found 7764 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_173_unweighted_events.lhe
+Found 7736 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_174_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_175_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_176_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_177_unweighted_events.lhe
+Found 7763 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_178_unweighted_events.lhe
+Found 5623 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_179_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_180_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_181_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_182_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_183_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_184_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_185_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_186_unweighted_events.lhe
+Found 5614 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_187_unweighted_events.lhe
+Found 7723 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_188_unweighted_events.lhe
+Found 4171 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_189_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_190_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_191_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_192_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_193_unweighted_events.lhe
+Found 5612 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_194_unweighted_events.lhe
+Found 5632 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_195_unweighted_events.lhe
+Found 2767 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_196_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_197_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_198_unweighted_events.lhe
+Found 4153 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_199_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_200_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_201_unweighted_events.lhe
+Found 7712 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_202_unweighted_events.lhe
+Found 3024 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_203_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_204_unweighted_events.lhe
+Found 7765 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_205_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_206_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_207_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_208_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_209_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_210_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_211_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_212_unweighted_events.lhe
+Found 7508 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_213_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_214_unweighted_events.lhe
+Found 7794 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_215_unweighted_events.lhe
+Found 7762 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_216_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_217_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_218_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_219_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_220_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_221_unweighted_events.lhe
+Found 5620 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_222_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_223_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_224_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_225_unweighted_events.lhe
+Found 6280 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_226_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_227_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_228_unweighted_events.lhe
+Found 7705 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_229_unweighted_events.lhe
+Found 7696 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_230_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_231_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_232_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_233_unweighted_events.lhe
+Found 7764 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_234_unweighted_events.lhe
+Found 7739 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_235_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_236_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_237_unweighted_events.lhe
+Found 7747 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_238_unweighted_events.lhe
+Found 7764 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_239_unweighted_events.lhe
+Found 2821 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_240_unweighted_events.lhe
+Found 7822 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_241_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_242_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_243_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_244_unweighted_events.lhe
+Found 9597 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_245_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_246_unweighted_events.lhe
+Found 7749 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_247_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_248_unweighted_events.lhe
+Found 7762 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_249_unweighted_events.lhe
+Found 7648 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_250_unweighted_events.lhe
+Found 7757 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_251_unweighted_events.lhe
+Found 5636 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_252_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_253_unweighted_events.lhe
+Found 5410 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_254_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_255_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_256_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_257_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_258_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_259_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_260_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_261_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_262_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_263_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_264_unweighted_events.lhe
+Found 7843 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_265_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_266_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_267_unweighted_events.lhe
+Found 5676 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_268_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_269_unweighted_events.lhe
+Found 7782 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_270_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_271_unweighted_events.lhe
+Found 9019 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_272_unweighted_events.lhe
+Found 7719 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_273_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_274_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_275_unweighted_events.lhe
+Found 3018 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_276_unweighted_events.lhe
+Found 9563 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_277_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_278_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_279_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_280_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_281_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_282_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_283_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_284_unweighted_events.lhe
+Found 7754 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_285_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_286_unweighted_events.lhe
+Found 5696 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_287_unweighted_events.lhe
+Found 7779 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_288_unweighted_events.lhe
+Found 7727 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_289_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_290_unweighted_events.lhe
+Found 7633 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_291_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_292_unweighted_events.lhe
+Found 7730 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_293_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_294_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_295_unweighted_events.lhe
+Found 7718 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_296_unweighted_events.lhe
+Found 7748 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_297_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_298_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_299_unweighted_events.lhe
+Found 7763 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_300_unweighted_events.lhe
+Found 5661 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_301_unweighted_events.lhe
+Found 7729 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_302_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_303_unweighted_events.lhe
+Found 5715 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_304_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_305_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_306_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_307_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_308_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_309_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_310_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_311_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_312_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_313_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_314_unweighted_events.lhe
+Found 5640 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_315_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_316_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_317_unweighted_events.lhe
+Found 7755 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_318_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_319_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_320_unweighted_events.lhe
+Found 7791 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_321_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_322_unweighted_events.lhe
+Found 5677 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_323_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_324_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_325_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_326_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_327_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_328_unweighted_events.lhe
+Found 7752 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_329_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_330_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_331_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_332_unweighted_events.lhe
+Found 7741 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_333_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_334_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_335_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_336_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_337_unweighted_events.lhe
+Found 8659 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_338_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_339_unweighted_events.lhe
+Found 4168 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_340_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_341_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_342_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_343_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_344_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_345_unweighted_events.lhe
+Found 5711 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_346_unweighted_events.lhe
+Found 7734 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_347_unweighted_events.lhe
+Found 5663 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_348_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_349_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_350_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_351_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_352_unweighted_events.lhe
+Found 7791 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_353_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_354_unweighted_events.lhe
+Found 7736 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_355_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_356_unweighted_events.lhe
+Found 5654 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_357_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_358_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_359_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_360_unweighted_events.lhe
+Found 7836 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_361_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_362_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_363_unweighted_events.lhe
+Found 5689 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_364_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_365_unweighted_events.lhe
+Found 7712 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_366_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_367_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_368_unweighted_events.lhe
+Found 7697 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_369_unweighted_events.lhe
+Found 7737 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_370_unweighted_events.lhe
+Found 7765 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_371_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_372_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_373_unweighted_events.lhe
+Found 4139 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_374_unweighted_events.lhe
+Found 9050 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_375_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_376_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_377_unweighted_events.lhe
+Found 7763 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_378_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_379_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_380_unweighted_events.lhe
+Found 9015 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_381_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_382_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_383_unweighted_events.lhe
+Found 9176 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_384_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_385_unweighted_events.lhe
+Found 7736 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_386_unweighted_events.lhe
+Found 7782 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_387_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_388_unweighted_events.lhe
+Found 5660 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_389_unweighted_events.lhe
+Found 7737 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_390_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_391_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_392_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_393_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_394_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_395_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_396_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_397_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_398_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_399_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_400_unweighted_events.lhe
+Found 7771 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_401_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_402_unweighted_events.lhe
+Found 9121 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_403_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_404_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_405_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_406_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_407_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_408_unweighted_events.lhe
+Found 7736 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_409_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_410_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_411_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_412_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_413_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_414_unweighted_events.lhe
+Found 7730 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_415_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_416_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_417_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_418_unweighted_events.lhe
+Found 7735 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_419_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_420_unweighted_events.lhe
+Found 7726 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_421_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_422_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_423_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_424_unweighted_events.lhe
+Found 5663 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_425_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_426_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_427_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_428_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_429_unweighted_events.lhe
+Found 7714 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_430_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_431_unweighted_events.lhe
+Found 6667 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_432_unweighted_events.lhe
+Found 7781 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_433_unweighted_events.lhe
+Found 9544 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_434_unweighted_events.lhe
+Found 7738 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_435_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_436_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_437_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_438_unweighted_events.lhe
+Found 7748 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_439_unweighted_events.lhe
+Found 5604 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_440_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_441_unweighted_events.lhe
+Found 7734 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_442_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_443_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_444_unweighted_events.lhe
+Found 5661 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_445_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_446_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_447_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_448_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_449_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_450_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_451_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_452_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_453_unweighted_events.lhe
+Found 9542 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_454_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_455_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_456_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_457_unweighted_events.lhe
+Found 7625 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_458_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_459_unweighted_events.lhe
+Found 5657 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_460_unweighted_events.lhe
+Found 4167 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_461_unweighted_events.lhe
+Found 7730 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_462_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_463_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_464_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_465_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_466_unweighted_events.lhe
+Found 7655 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_467_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_468_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_469_unweighted_events.lhe
+Found 5662 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_470_unweighted_events.lhe
+Found 7758 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_471_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_472_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_473_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_474_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_475_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_476_unweighted_events.lhe
+Found 7753 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_477_unweighted_events.lhe
+Found 7744 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_478_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_479_unweighted_events.lhe
+Found 7697 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_480_unweighted_events.lhe
+Found 5642 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_481_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_482_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_483_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_484_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_485_unweighted_events.lhe
+Found 9468 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_486_unweighted_events.lhe
+Found 8627 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_487_unweighted_events.lhe
+Found 7728 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_488_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_489_unweighted_events.lhe
+Found 7735 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_490_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_491_unweighted_events.lhe
+Found 7814 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_492_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_493_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_494_unweighted_events.lhe
+Found 5688 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_495_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_496_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_497_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_498_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_499_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_500_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_501_unweighted_events.lhe
+Found 6344 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_502_unweighted_events.lhe
+Found 7767 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_503_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_504_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_505_unweighted_events.lhe
+Found 7686 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_506_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_507_unweighted_events.lhe
+Found 9573 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_508_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_509_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_510_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_511_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_512_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_513_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_514_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_515_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_516_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_517_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_518_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_519_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_520_unweighted_events.lhe
+Found 3010 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_521_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_522_unweighted_events.lhe
+Found 5673 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_523_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_524_unweighted_events.lhe
+Found 5650 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_525_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_526_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_527_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_528_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_529_unweighted_events.lhe
+Found 7335 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_530_unweighted_events.lhe
+Found 7713 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_531_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_532_unweighted_events.lhe
+Found 5598 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_533_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_534_unweighted_events.lhe
+Found 7775 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_535_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_536_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_537_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_538_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_539_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_540_unweighted_events.lhe
+Found 7591 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_541_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_542_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_543_unweighted_events.lhe
+Found 7743 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_544_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_545_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_546_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_547_unweighted_events.lhe
+Found 7727 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_548_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_549_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_550_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_551_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_552_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_553_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_554_unweighted_events.lhe
+Found 1644 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_555_unweighted_events.lhe
+Found 5602 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_556_unweighted_events.lhe
+Found 7734 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_557_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_558_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_559_unweighted_events.lhe
+Found 7746 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_560_unweighted_events.lhe
+Found 7726 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_561_unweighted_events.lhe
+Found 5612 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_562_unweighted_events.lhe
+Found 5630 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_563_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_564_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_565_unweighted_events.lhe
+Found 7754 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_566_unweighted_events.lhe
+Found 6004 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_567_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_568_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_569_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_570_unweighted_events.lhe
+Found 9100 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_571_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_572_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_573_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_574_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_575_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_576_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_577_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_578_unweighted_events.lhe
+Found 7710 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_579_unweighted_events.lhe
+Found 8596 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_580_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_581_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_582_unweighted_events.lhe
+Found 4130 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_583_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_584_unweighted_events.lhe
+Found 7736 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_585_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_586_unweighted_events.lhe
+Found 4150 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_587_unweighted_events.lhe
+Found 5674 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_588_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_589_unweighted_events.lhe
+Found 7700 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_590_unweighted_events.lhe
+Found 7721 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_591_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_592_unweighted_events.lhe
+Found 9533 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_593_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_594_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_595_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_596_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_597_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_598_unweighted_events.lhe
+Found 7741 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_599_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_600_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_601_unweighted_events.lhe
+Found 5531 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_602_unweighted_events.lhe
+Found 7700 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_603_unweighted_events.lhe
+Found 8132 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_604_unweighted_events.lhe
+Found 7789 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_605_unweighted_events.lhe
+Found 7770 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_606_unweighted_events.lhe
+Found 4084 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_607_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_608_unweighted_events.lhe
+Found 7727 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_609_unweighted_events.lhe
+Found 7760 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_610_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_611_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_612_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_613_unweighted_events.lhe
+Found 7795 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_614_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_615_unweighted_events.lhe
+Found 7722 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_616_unweighted_events.lhe
+Found 5657 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_617_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_618_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_619_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_620_unweighted_events.lhe
+Found 7723 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_621_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_622_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_623_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_624_unweighted_events.lhe
+Found 7707 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_625_unweighted_events.lhe
+Found 4131 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_626_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_627_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_628_unweighted_events.lhe
+Found 7724 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_629_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_630_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_631_unweighted_events.lhe
+Found 7695 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_632_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_633_unweighted_events.lhe
+Found 9045 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_634_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_635_unweighted_events.lhe
+Found 7748 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_636_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_637_unweighted_events.lhe
+Found 7741 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_638_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_639_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_640_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_641_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_642_unweighted_events.lhe
+Found 5663 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_643_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_644_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_645_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_646_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_647_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_648_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_649_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_650_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_651_unweighted_events.lhe
+Found 7649 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_652_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_653_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_654_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_655_unweighted_events.lhe
+Found 7372 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_656_unweighted_events.lhe
+Found 5640 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_657_unweighted_events.lhe
+Found 7699 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_658_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_659_unweighted_events.lhe
+Found 7757 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_660_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_661_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_662_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_663_unweighted_events.lhe
+Found 7705 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_664_unweighted_events.lhe
+Found 5590 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_665_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_666_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_667_unweighted_events.lhe
+Found 4146 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_668_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_669_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_670_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_671_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_672_unweighted_events.lhe
+Found 7735 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_673_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_674_unweighted_events.lhe
+Found 7771 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_675_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_676_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_677_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_678_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_679_unweighted_events.lhe
+Found 7712 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_680_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_681_unweighted_events.lhe
+Found 7748 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_682_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_683_unweighted_events.lhe
+Found 7760 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_684_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_685_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_686_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_687_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_688_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_689_unweighted_events.lhe
+Found 7697 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_690_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_691_unweighted_events.lhe
+Found 7609 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_692_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_693_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_694_unweighted_events.lhe
+Found 7727 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_695_unweighted_events.lhe
+Found 9073 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_696_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_697_unweighted_events.lhe
+Found 4117 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_698_unweighted_events.lhe
+Found 7728 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_699_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_700_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_701_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_702_unweighted_events.lhe
+Found 7757 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_703_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_704_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_705_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_706_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_707_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_708_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_709_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_710_unweighted_events.lhe
+Found 7777 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_711_unweighted_events.lhe
+Found 7744 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_712_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_713_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_714_unweighted_events.lhe
+Found 7790 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_715_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_716_unweighted_events.lhe
+Found 4163 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_717_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_718_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_719_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_720_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_721_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_722_unweighted_events.lhe
+Found 4164 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_723_unweighted_events.lhe
+Found 9054 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_724_unweighted_events.lhe
+Found 7727 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_725_unweighted_events.lhe
+Found 7704 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_726_unweighted_events.lhe
+Found 9563 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_727_unweighted_events.lhe
+Found 7791 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_728_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_729_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_730_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_731_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_732_unweighted_events.lhe
+Found 7322 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_733_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_734_unweighted_events.lhe
+Found 7687 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_735_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_736_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_737_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_738_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_739_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_740_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_741_unweighted_events.lhe
+Found 9573 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_742_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_743_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_744_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_745_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_746_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_747_unweighted_events.lhe
+Found 3051 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_748_unweighted_events.lhe
+Found 7748 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_749_unweighted_events.lhe
+Found 7682 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_750_unweighted_events.lhe
+Found 4117 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_751_unweighted_events.lhe
+Found 9541 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_752_unweighted_events.lhe
+Found 6983 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_753_unweighted_events.lhe
+Found 5648 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_754_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_755_unweighted_events.lhe
+Found 7750 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_756_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_757_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_758_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_759_unweighted_events.lhe
+Found 7772 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_760_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_761_unweighted_events.lhe
+Found 7737 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_762_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_763_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_764_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_765_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_766_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_767_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_768_unweighted_events.lhe
+Found 4116 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_769_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_770_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_771_unweighted_events.lhe
+Found 5631 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_772_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_773_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_774_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_775_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_776_unweighted_events.lhe
+Found 5658 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_777_unweighted_events.lhe
+Found 9515 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_778_unweighted_events.lhe
+Found 5611 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_779_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_780_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_781_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_782_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_783_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_784_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_785_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_786_unweighted_events.lhe
+Found 4110 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_787_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_788_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_789_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_790_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_791_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_792_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_793_unweighted_events.lhe
+Found 7743 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_794_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_795_unweighted_events.lhe
+Found 7722 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_796_unweighted_events.lhe
+Found 5682 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_797_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_798_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_799_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_800_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_801_unweighted_events.lhe
+Found 7681 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_802_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_803_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_804_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_805_unweighted_events.lhe
+Found 7760 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_806_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_807_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_808_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_809_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_810_unweighted_events.lhe
+Found 7578 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_811_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_812_unweighted_events.lhe
+Found 7780 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_813_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_814_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_815_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_816_unweighted_events.lhe
+Found 7716 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_817_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_818_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_819_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_820_unweighted_events.lhe
+Found 7702 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_821_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_822_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_823_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_824_unweighted_events.lhe
+Found 5666 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_825_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_826_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_827_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_828_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_829_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_830_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_831_unweighted_events.lhe
+Found 7706 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_832_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_833_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_834_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_835_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_836_unweighted_events.lhe
+Found 7665 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_837_unweighted_events.lhe
+Found 7721 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_838_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_839_unweighted_events.lhe
+Found 8670 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_840_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_841_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_842_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_843_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_844_unweighted_events.lhe
+Found 5080 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_845_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_846_unweighted_events.lhe
+Found 7790 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_847_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_848_unweighted_events.lhe
+Found 6965 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_849_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_850_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_851_unweighted_events.lhe
+Found 8186 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_852_unweighted_events.lhe
+Found 7727 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_853_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_854_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_855_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_856_unweighted_events.lhe
+Found 8646 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_857_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_858_unweighted_events.lhe
+Found 7737 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_859_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_860_unweighted_events.lhe
+Found 7768 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_861_unweighted_events.lhe
+Found 7738 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_862_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_863_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_864_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_865_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_866_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_867_unweighted_events.lhe
+Found 9599 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_868_unweighted_events.lhe
+Found 4133 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_869_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_870_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_871_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_872_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_873_unweighted_events.lhe
+Found 4156 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_874_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_875_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_876_unweighted_events.lhe
+Found 4150 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_877_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_878_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_879_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_880_unweighted_events.lhe
+Found 5668 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_881_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_882_unweighted_events.lhe
+Found 7637 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_883_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_884_unweighted_events.lhe
+Found 6927 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_885_unweighted_events.lhe
+Found 7364 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_886_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_887_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_888_unweighted_events.lhe
+Found 7710 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_889_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_890_unweighted_events.lhe
+Found 7624 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_891_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_892_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_893_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_894_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_895_unweighted_events.lhe
+Found 7757 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_896_unweighted_events.lhe
+Found 9123 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_897_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_898_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_899_unweighted_events.lhe
+Found 7737 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_900_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_901_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_902_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_903_unweighted_events.lhe
+Found 7395 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_904_unweighted_events.lhe
+Found 7728 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_905_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_906_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_907_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_908_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_909_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_910_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_911_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_912_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_913_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_914_unweighted_events.lhe
+Found 7684 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_915_unweighted_events.lhe
+Found 7717 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_916_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_917_unweighted_events.lhe
+Found 9597 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_918_unweighted_events.lhe
+Found 7699 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_919_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_920_unweighted_events.lhe
+Found 7347 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_921_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_922_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_923_unweighted_events.lhe
+Found 7810 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_924_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_925_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_926_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_927_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_928_unweighted_events.lhe
+Found 5688 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_929_unweighted_events.lhe
+Found 9055 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_930_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_931_unweighted_events.lhe
+Found 5631 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_932_unweighted_events.lhe
+Found 5673 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_933_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_934_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_935_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_936_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_937_unweighted_events.lhe
+Found 7714 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_938_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_939_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_940_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_941_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_942_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_943_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_944_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_945_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_946_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_947_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_948_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_949_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_950_unweighted_events.lhe
+Found 7374 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_951_unweighted_events.lhe
+Found 5628 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_952_unweighted_events.lhe
+Found 4122 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_953_unweighted_events.lhe
+Found 5514 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_954_unweighted_events.lhe
+Found 7583 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_955_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_956_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_957_unweighted_events.lhe
+Found 5633 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_958_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_959_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_960_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_961_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_962_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_963_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_964_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_965_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_966_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_967_unweighted_events.lhe
+Found 7734 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_968_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_969_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_970_unweighted_events.lhe
+Found 5615 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_971_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_972_unweighted_events.lhe
+Found 7796 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_973_unweighted_events.lhe
+Found 5656 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_974_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_975_unweighted_events.lhe
+Found 5671 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_976_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_977_unweighted_events.lhe
+Found 6630 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_978_unweighted_events.lhe
+Found 5645 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_979_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_980_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_981_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_982_unweighted_events.lhe
+Found 5635 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_983_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_984_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_985_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_986_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_987_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_988_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_989_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_990_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_991_unweighted_events.lhe
+Found 7758 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_992_unweighted_events.lhe
+Found 6928 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_993_unweighted_events.lhe
+Found 9515 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_994_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_995_unweighted_events.lhe
+Found 4141 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_996_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_997_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_998_unweighted_events.lhe
+Found 10000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events4pt4BH/W4pt4GeV_BH_999_unweighted_events.lhe
+Found 7744 events
+nGenerated = 9010945
+nPass(Test) = 2132833
+nPass(Test Lyr50)= 2092399
+nPass(Full) = 2613710
+*********    Histograms      ***********   
+bin     mass   Gen    Lyr1  Lyr50
+0	 0.0	0	0	0	0
+1	 1.0	0	0	0	0
+2	 2.0	0	0	0	0
+3	 3.0	0	0	0	0
+4	 4.0	1	0	0	0
+5	 5.0	3702	0	0	0
+6	 6.0	4086	0	0	0
+7	 7.0	4350	0	0	0
+8	 8.0	4651	0	0	0
+9	 9.0	4573	0	0	0
+10	10.0	4852	0	0	0
+11	11.0	4842	0	0	0
+12	12.0	5084	0	0	0
+13	13.0	5232	0	0	0
+14	14.0	5323	2	1	2
+15	15.0	5312	4	2	4
+16	16.0	5568	11	8	11
+17	17.0	5699	19	15	19
+18	18.0	5912	25	24	25
+19	19.0	5849	38	35	38
+20	20.0	6020	37	35	37
+21	21.0	6118	50	45	50
+22	22.0	6228	66	61	66
+23	23.0	6327	86	77	86
+24	24.0	6581	101	98	101
+25	25.0	6717	132	120	132
+26	26.0	6889	139	126	139
+27	27.0	6957	118	109	118
+28	28.0	7271	182	170	182
+29	29.0	7742	179	171	179
+30	30.0	7775	154	150	154
+31	31.0	8080	174	167	174
+32	32.0	8571	201	198	201
+33	33.0	9234	211	206	211
+34	34.0	9707	190	184	189
+35	35.0	10705	181	173	180
+36	36.0	12607	196	189	196
+37	37.0	15708	207	203	206
+38	38.0	19713	197	191	196
+39	39.0	24541	218	208	218
+40	40.0	30422	208	198	210
+41	41.0	36694	189	182	202
+42	42.0	42824	179	169	192
+43	43.0	49623	184	177	212
+44	44.0	56546	206	198	247
+45	45.0	61569	224	211	292
+46	46.0	67650	206	193	313
+47	47.0	72953	213	198	351
+48	48.0	77081	240	220	405
+49	49.0	80893	270	238	454
+50	50.0	83907	302	272	519
+51	51.0	87754	401	346	658
+52	52.0	90826	475	407	759
+53	53.0	92724	560	482	857
+54	54.0	93588	823	681	1145
+55	55.0	95380	1229	995	1563
+56	56.0	97295	1866	1498	2236
+57	57.0	97708	2498	2053	2882
+58	58.0	98493	3396	2825	3805
+59	59.0	99360	4377	3704	4771
+60	60.0	98851	5331	4609	5750
+61	61.0	99405	6422	5583	6910
+62	62.0	99287	7477	6566	7919
+63	63.0	99228	8559	7559	9063
+64	64.0	99096	10013	9019	10490
+65	65.0	98558	10902	9840	11412
+66	66.0	97502	12104	11012	12637
+67	67.0	97655	13412	12232	13963
+68	68.0	96203	14417	13259	14977
+69	69.0	95236	15409	14227	15932
+70	70.0	94953	16615	15482	17180
+71	71.0	93506	17225	16080	17813
+72	72.0	93043	18371	17227	18956
+73	73.0	91568	18989	17846	19592
+74	74.0	90620	19794	18692	20374
+75	75.0	89503	20453	19411	21162
+76	76.0	88946	21008	19906	21687
+77	77.0	87487	21346	20313	21986
+78	78.0	85950	21807	20764	22510
+79	79.0	84982	22452	21457	23146
+80	80.0	83659	22576	21561	23274
+81	81.0	82531	23072	22132	23793
+82	82.0	81403	22999	22030	23748
+83	83.0	80139	23607	22720	24335
+84	84.0	79344	23978	23071	24729
+85	85.0	77809	23587	22728	24417
+86	86.0	76792	24025	23200	24813
+87	87.0	75393	23890	23092	24716
+88	88.0	74475	24344	23510	25166
+89	89.0	73626	24488	23637	25372
+90	90.0	72178	24133	23362	24953
+91	91.0	70976	24192	23415	25118
+92	92.0	69647	23942	23181	24841
+93	93.0	68655	24055	23305	24948
+94	94.0	67792	24212	23492	25089
+95	95.0	66445	23837	23208	24789
+96	96.0	65388	23979	23300	24956
+97	97.0	64410	23779	23125	24800
+98	98.0	62988	23249	22627	24306
+99	99.0	62849	23584	22933	24658
+100	100.0	61152	23339	22754	24471
+101	101.0	59979	23042	22463	24114
+102	102.0	59001	22651	22068	23809
+103	103.0	58247	22588	22006	23690
+104	104.0	57210	22395	21846	23565
+105	105.0	56326	22391	21895	23592
+106	106.0	55495	21981	21501	23215
+107	107.0	54365	21769	21270	22998
+108	108.0	53627	21601	21102	22866
+109	109.0	52648	21256	20818	22562
+110	110.0	51579	20897	20479	22236
+111	111.0	50592	20667	20241	22021
+112	112.0	49789	20425	20008	21866
+113	113.0	49302	20413	19994	21798
+114	114.0	48213	20090	19665	21513
+115	115.0	47830	19732	19371	21205
+116	116.0	46744	19284	18895	20782
+117	117.0	45624	19290	18942	20801
+118	118.0	45117	18947	18582	20557
+119	119.0	44206	18685	18341	20310
+120	120.0	43511	18370	18036	19983
+121	121.0	42617	18109	17817	19747
+122	122.0	41893	17689	17373	19304
+123	123.0	41103	17360	17074	19045
+124	124.0	40804	17467	17188	19186
+125	125.0	39970	17086	16780	18819
+126	126.0	39416	16860	16576	18583
+127	127.0	38457	16627	16406	18405
+128	128.0	38201	16321	16066	18152
+129	129.0	37303	15977	15753	17703
+130	130.0	36648	15868	15646	17687
+131	131.0	36379	15586	15385	17517
+132	132.0	35618	15211	15030	17058
+133	133.0	35002	14951	14747	16882
+134	134.0	34052	14504	14331	16464
+135	135.0	33367	14280	14093	16283
+136	136.0	33353	14124	13934	16198
+137	137.0	32587	13804	13637	15846
+138	138.0	32045	13633	13455	15648
+139	139.0	31953	13455	13292	15683
+140	140.0	31173	13059	12897	15302
+141	141.0	30533	12840	12682	15044
+142	142.0	30080	12551	12396	14724
+143	143.0	30027	12369	12229	14716
+144	144.0	29256	12087	11942	14466
+145	145.0	28903	11933	11810	14273
+146	146.0	28324	11591	11493	13950
+147	147.0	27875	11382	11263	13805
+148	148.0	27032	11058	10939	13421
+149	149.0	26790	10785	10692	13372
+150	150.0	26418	10642	10546	13183
+151	151.0	26028	10423	10309	12911
+152	152.0	25609	10012	9925	12630
+153	153.0	25157	9993	9902	12590
+154	154.0	24519	9657	9574	12136
+155	155.0	24174	9385	9295	12185
+156	156.0	23914	9212	9135	11851
+157	157.0	23430	8961	8902	11726
+158	158.0	22994	8763	8700	11509
+159	159.0	22901	8648	8588	11320
+160	160.0	22521	8383	8321	11210
+161	161.0	22170	8315	8235	11251
+162	162.0	21741	7994	7905	10841
+163	163.0	21264	7716	7657	10544
+164	164.0	20928	7473	7410	10375
+165	165.0	20672	7469	7427	10308
+166	166.0	20333	7395	7346	10248
+167	167.0	20506	7258	7206	10323
+168	168.0	19871	6948	6900	9937
+169	169.0	19598	6803	6766	9766
+170	170.0	19100	6638	6582	9668
+171	171.0	18985	6477	6436	9446
+172	172.0	18303	6149	6119	9159
+173	173.0	18395	6213	6177	9177
+174	174.0	18304	6199	6158	9150
+175	175.0	17768	6018	5972	8963
+176	176.0	17781	5797	5765	8854
+177	177.0	17323	5740	5711	8740
+178	178.0	17122	5671	5644	8607
+179	179.0	16880	5371	5345	8324
+180	180.0	16485	5228	5194	8100
+181	181.0	16270	5243	5200	8215
+182	182.0	15922	5038	5013	7867
+183	183.0	15660	4877	4854	7828
+184	184.0	15468	4828	4798	7785
+185	185.0	15234	4661	4633	7545
+186	186.0	15190	4662	4632	7613
+187	187.0	14744	4409	4401	7258
+188	188.0	14515	4346	4335	7160
+189	189.0	14621	4354	4327	7265
+190	190.0	13884	4072	4055	6850
+191	191.0	13877	4129	4113	6864
+192	192.0	13508	3907	3897	6624
+193	193.0	13438	3896	3893	6626
+194	194.0	13399	3866	3850	6687
+195	195.0	13220	3685	3664	6595
+196	196.0	13189	3672	3656	6476
+197	197.0	12762	3531	3527	6299
+198	198.0	12511	3434	3420	6161
+199	199.0	12287	3398	3379	6153
+200	200.0	11961	3327	3315	5970
+201	201.0	11946	3155	3146	5780
+202	202.0	11761	3185	3179	5890
+203	203.0	11656	3052	3041	5694
+204	204.0	11413	3030	3030	5659
+205	205.0	11171	3019	3010	5631
+206	206.0	11185	2838	2830	5447
+207	207.0	11069	2796	2800	5446
+208	208.0	10750	2769	2763	5336
+209	209.0	10739	2690	2696	5258
+210	210.0	10388	2645	2642	5142
+211	211.0	10319	2590	2602	5107
+212	212.0	10143	2531	2533	5018
+213	213.0	10152	2480	2479	4917
+214	214.0	10079	2495	2494	4910
+215	215.0	9819	2350	2349	4806
+216	216.0	9499	2319	2324	4702
+217	217.0	9472	2187	2194	4619
+218	218.0	9272	2221	2224	4531
+219	219.0	9221	2225	2225	4575
+220	220.0	9134	2040	2056	4384
+221	221.0	8890	2054	2061	4309
+222	222.0	9015	2045	2046	4400
+223	223.0	8645	2014	2023	4233
+224	224.0	8487	1912	1924	4129
+225	225.0	8288	1859	1878	4018
+226	226.0	8211	1798	1809	3953
+227	227.0	8224	1821	1845	3908
+228	228.0	7983	1784	1797	3849
+229	229.0	7957	1745	1752	3852
+230	230.0	7810	1633	1649	3703
+231	231.0	7801	1651	1672	3739
+232	232.0	7675	1593	1619	3660
+233	233.0	7487	1583	1604	3626
+234	234.0	7365	1549	1569	3501
+235	235.0	7368	1513	1546	3458
+236	236.0	7318	1565	1588	3498
+237	237.0	6943	1433	1447	3317
+238	238.0	7017	1438	1447	3323
+239	239.0	6933	1468	1479	3345
+240	240.0	6896	1347	1365	3209
+241	241.0	6729	1347	1365	3214
+242	242.0	6668	1291	1319	3101
+243	243.0	6541	1249	1278	3062
+244	244.0	6536	1285	1315	3131
+245	245.0	6445	1241	1261	3012
+246	246.0	6229	1215	1243	2886
+247	247.0	6289	1183	1195	2849
+248	248.0	6071	1093	1118	2753
+249	249.0	6046	1134	1167	2789
+250	250.0	6009	1103	1132	2814
+251	251.0	5767	1058	1081	2709
+252	252.0	5718	1057	1092	2661
+253	253.0	5709	1083	1126	2674
+254	254.0	5554	1028	1063	2632
+255	255.0	5634	972	1010	2519
+256	256.0	5411	1034	1070	2533
+257	257.0	5315	933	980	2372
+258	258.0	5424	986	1020	2421
+259	259.0	5280	936	966	2369
+260	260.0	5228	918	958	2316
+261	261.0	5056	875	910	2305
+262	262.0	5186	891	932	2330
+263	263.0	4920	885	922	2288
+264	264.0	4931	802	847	2171
+265	265.0	4877	839	881	2233
+266	266.0	4758	785	827	2083
+267	267.0	4590	787	832	2079
+268	268.0	4529	753	795	1993
+269	269.0	4620	732	784	2026
+270	270.0	4519	705	745	1957
+271	271.0	4339	741	800	1944
+272	272.0	4336	714	770	1916
+273	273.0	4346	672	722	1889
+274	274.0	4329	749	793	1932
+275	275.0	4305	645	683	1861
+276	276.0	4080	663	711	1817
+277	277.0	4101	667	719	1844
+278	278.0	4090	604	662	1780
+279	279.0	3977	639	690	1765
+280	280.0	4040	613	666	1716
+281	281.0	3873	546	613	1611
+282	282.0	3819	609	650	1671
+283	283.0	3803	527	580	1589
+284	284.0	3788	588	645	1592
+285	285.0	3733	547	628	1591
+286	286.0	3623	534	585	1499
+287	287.0	3525	528	597	1500
+288	288.0	3573	513	569	1510
+289	289.0	3454	486	556	1407
+290	290.0	3393	513	576	1457
+291	291.0	3505	505	569	1427
+292	292.0	3376	474	529	1346
+293	293.0	3294	443	506	1326
+294	294.0	3259	447	521	1310
+295	295.0	3237	446	526	1291
+296	296.0	3207	446	524	1336
+297	297.0	3174	413	473	1317
+298	298.0	3070	415	485	1232
+299	299.0	3059	409	482	1222
+300	300.0	3029	424	489	1250
+301	301.0	3020	395	462	1175
+302	302.0	2929	386	453	1157
+303	303.0	2911	373	450	1161
+304	304.0	2811	383	442	1125
+305	305.0	2827	365	439	1103
+306	306.0	2782	385	451	1108
+307	307.0	2744	367	436	1111
+308	308.0	2768	363	449	1033
+309	309.0	2693	343	422	1050
+310	310.0	2681	357	430	1054
+311	311.0	2614	348	420	1051
+312	312.0	2549	317	379	949
+313	313.0	2499	321	410	965
+314	314.0	2646	356	416	1031
+315	315.0	2514	323	404	936
+316	316.0	2453	293	370	980
+317	317.0	2449	315	397	913
+318	318.0	2375	301	375	922
+319	319.0	2421	278	372	868
+320	320.0	2346	290	358	913
+321	321.0	2316	292	365	811
+322	322.0	2189	256	342	823
+323	323.0	2158	281	357	837
+324	324.0	2206	258	340	857
+325	325.0	2211	276	362	816
+326	326.0	2151	252	320	812
+327	327.0	2090	239	334	776
+328	328.0	2114	236	334	723
+329	329.0	2047	230	317	727
+330	330.0	2039	217	295	740
+331	331.0	2007	249	327	709
+332	332.0	2016	228	300	722
+333	333.0	1977	236	317	685
+334	334.0	1983	217	296	717
+335	335.0	1926	215	296	663
+336	336.0	1945	219	303	687
+337	337.0	1925	217	320	648
+338	338.0	1828	209	301	625
+339	339.0	1915	220	302	689
+340	340.0	1796	207	290	617
+341	341.0	1792	184	248	596
+342	342.0	1812	203	259	635
+343	343.0	1788	176	250	588
+344	344.0	1698	187	267	568
+345	345.0	1676	173	261	538
+346	346.0	1723	208	288	603
+347	347.0	1675	162	245	537
+348	348.0	1620	157	248	531
+349	349.0	1653	178	256	548
+350	350.0	1593	171	235	532
+351	351.0	1554	162	259	468
+352	352.0	1492	155	247	492
+353	353.0	1573	162	237	502
+354	354.0	1465	123	217	468
+355	355.0	1436	144	216	464
+356	356.0	1483	150	235	503
+357	357.0	1541	162	238	489
+358	358.0	1369	137	215	480
+359	359.0	1452	149	234	492
+360	360.0	1396	124	211	405
+361	361.0	1362	115	190	416
+362	362.0	1295	124	196	404
+363	363.0	1401	130	201	440
+364	364.0	1345	135	219	428
+365	365.0	1329	103	185	414
+366	366.0	1260	106	208	378
+367	367.0	1271	124	194	397
+368	368.0	1233	102	173	373
+369	369.0	1203	103	178	357
+370	370.0	1192	107	182	387
+371	371.0	1275	115	192	395
+372	372.0	1181	109	198	357
+373	373.0	1202	98	194	315
+374	374.0	1150	98	166	347
+375	375.0	1159	103	200	328
+376	376.0	1153	90	173	336
+377	377.0	1180	106	180	348
+378	378.0	1125	86	163	330
+379	379.0	1093	100	181	318
+380	380.0	1030	81	151	323
+381	381.0	1055	104	191	289
+382	382.0	1025	81	167	268
+383	383.0	956	81	158	302
+384	384.0	1035	74	144	283
+385	385.0	1051	78	155	297
+386	386.0	995	64	154	272
+387	387.0	928	74	153	242
+388	388.0	969	78	147	285
+389	389.0	972	59	157	272
+390	390.0	956	67	138	253
+391	391.0	913	64	141	238
+392	392.0	898	58	145	235
+393	393.0	906	71	133	233
+394	394.0	882	73	133	248
+395	395.0	879	61	122	236
+396	396.0	841	64	134	220
+397	397.0	921	77	150	244
+398	398.0	806	68	135	209
+399	399.0	848	68	132	243
+400	400.0	854	55	135	224
+401	401.0	863	62	150	217
+402	402.0	790	55	113	207
+403	403.0	853	73	131	220
+404	404.0	754	55	113	212
+405	405.0	785	43	113	208
+406	406.0	779	49	122	185
+407	407.0	784	59	132	190
+408	408.0	760	55	110	192
+409	409.0	744	46	124	174
+410	410.0	733	39	105	175
+411	411.0	719	62	120	197
+412	412.0	742	49	125	184
+413	413.0	714	49	116	178
+414	414.0	763	55	111	200
+415	415.0	685	57	123	158
+416	416.0	688	35	97	160
+417	417.0	651	51	106	148
+418	418.0	661	48	107	166
+419	419.0	692	48	125	165
+420	420.0	655	36	94	142
+421	421.0	625	42	98	147
+422	422.0	641	35	90	132
+423	423.0	618	36	104	132
+424	424.0	582	35	85	126
+425	425.0	580	39	96	139
+426	426.0	639	43	87	183
+427	427.0	592	45	100	139
+428	428.0	575	40	93	132
+429	429.0	544	38	82	138
+430	430.0	632	48	111	147
+431	431.0	614	33	94	145
+432	432.0	569	35	86	124
+433	433.0	508	34	85	117
+434	434.0	556	39	96	121
+435	435.0	538	26	77	127
+436	436.0	555	33	93	124
+437	437.0	507	29	85	104
+438	438.0	531	37	88	117
+439	439.0	519	39	87	103
+440	440.0	502	26	78	97
+441	441.0	454	20	50	96
+442	442.0	511	37	93	99
+443	443.0	479	26	66	98
+444	444.0	451	28	71	101
+445	445.0	455	29	85	92
+446	446.0	502	25	78	90
+447	447.0	470	26	76	106
+448	448.0	470	26	64	98
+449	449.0	415	24	70	82
+450	450.0	447	19	56	78
+451	451.0	482	32	85	101
+452	452.0	457	25	71	98
+453	453.0	413	29	62	76
+454	454.0	423	27	59	93
+455	455.0	451	34	70	96
+456	456.0	426	21	63	80
+457	457.0	353	16	43	74
+458	458.0	400	16	54	81
+459	459.0	400	23	58	77
+460	460.0	411	20	55	87
+461	461.0	405	26	56	78
+462	462.0	395	28	58	83
+463	463.0	359	18	61	71
+464	464.0	364	26	68	76
+465	465.0	377	24	60	77
+466	466.0	368	19	60	69
+467	467.0	386	16	61	87
+468	468.0	364	16	58	65
+469	469.0	356	19	54	63
+470	470.0	372	22	56	77
+471	471.0	318	21	60	60
+472	472.0	327	20	60	70
+473	473.0	335	28	55	69
+474	474.0	307	12	46	56
+475	475.0	309	14	45	53
+476	476.0	315	22	53	57
+477	477.0	308	17	48	47
+478	478.0	344	26	62	63
+479	479.0	298	18	50	57
+480	480.0	307	18	47	60
+481	481.0	310	15	47	61
+482	482.0	314	16	41	58
+483	483.0	296	16	47	54
+484	484.0	326	20	40	65
+485	485.0	274	11	39	46
+486	486.0	285	12	43	58
+487	487.0	293	22	57	68
+488	488.0	289	15	46	46
+489	489.0	249	11	41	40
+490	490.0	292	17	51	56
+491	491.0	267	16	36	53
+492	492.0	245	7	35	34
+493	493.0	248	14	39	39
+494	494.0	254	11	37	44
+495	495.0	234	10	34	39
+496	496.0	260	12	36	42
+497	497.0	241	10	34	44
+498	498.0	252	16	45	44
+499	499.0	259	12	32	46
+500	500.0	264	9	36	53
+501	501.0	214	14	30	34
+502	502.0	223	12	34	36
+503	503.0	216	19	38	33
+504	504.0	220	11	39	36
+505	505.0	246	14	33	45
+506	506.0	237	17	38	42
+507	507.0	238	12	37	33
+508	508.0	225	9	29	28
+509	509.0	187	13	28	35
+510	510.0	178	8	35	25
+511	511.0	224	7	34	34
+512	512.0	194	10	23	41
+513	513.0	195	12	29	32
+514	514.0	202	15	30	35
+515	515.0	216	5	28	42
+516	516.0	166	11	23	25
+517	517.0	181	6	19	28
+518	518.0	191	15	33	39
+519	519.0	174	7	24	24
+520	520.0	174	11	34	26
+521	521.0	205	12	33	28
+522	522.0	180	10	28	22
+523	523.0	165	7	21	32
+524	524.0	166	6	23	25
+525	525.0	166	1	22	21
+526	526.0	175	5	20	33
+527	527.0	154	6	23	21
+528	528.0	154	9	16	25
+529	529.0	141	5	20	17
+530	530.0	156	8	27	19
+531	531.0	159	13	22	30
+532	532.0	153	10	28	21
+533	533.0	154	6	14	21
+534	534.0	139	4	16	23
+535	535.0	158	7	19	22
+536	536.0	148	6	19	18
+537	537.0	156	10	29	27
+538	538.0	141	9	24	21
+539	539.0	143	5	23	20
+540	540.0	132	8	25	26
+541	541.0	150	5	24	17
+542	542.0	146	8	25	20
+543	543.0	124	1	15	17
+544	544.0	152	11	20	24
+545	545.0	155	8	13	31
+546	546.0	126	8	17	22
+547	547.0	154	6	26	17
+548	548.0	122	8	15	18
+549	549.0	119	5	16	21
+550	550.0	120	7	17	11
+551	551.0	120	7	14	20
+552	552.0	123	2	12	18
+553	553.0	109	6	20	14
+554	554.0	124	6	17	18
+555	555.0	108	3	11	16
+556	556.0	123	5	13	16
+557	557.0	102	7	14	17
+558	558.0	106	6	18	14
+559	559.0	110	4	13	13
+560	560.0	94	3	12	17
+561	561.0	108	7	9	17
+562	562.0	109	4	16	15
+563	563.0	104	5	12	10
+564	564.0	109	5	17	13
+565	565.0	109	6	15	14
+566	566.0	111	5	10	18
+567	567.0	95	4	10	8
+568	568.0	98	2	15	13
+569	569.0	101	5	13	11
+570	570.0	81	6	11	15
+571	571.0	86	2	13	9
+572	572.0	79	5	12	13
+573	573.0	95	2	10	13
+574	574.0	84	5	12	11
+575	575.0	84	5	5	10
+576	576.0	78	6	5	10
+577	577.0	99	3	14	14
+578	578.0	69	3	7	6
+579	579.0	84	2	4	10
+580	580.0	71	3	10	8
+581	581.0	80	2	7	5
+582	582.0	69	5	10	10
+583	583.0	93	1	9	8
+584	584.0	81	2	9	7
+585	585.0	91	6	11	15
+586	586.0	85	3	12	10
+587	587.0	84	5	18	13
+588	588.0	76	2	4	8
+589	589.0	80	8	8	17
+590	590.0	91	3	4	11
+591	591.0	79	5	10	12
+592	592.0	57	3	5	12
+593	593.0	76	4	7	5
+594	594.0	53	1	5	6
+595	595.0	56	2	9	7
+596	596.0	73	6	12	11
+597	597.0	69	4	8	10
+598	598.0	62	3	6	8
+599	599.0	59	3	7	8
+600	600.0	57	1	5	4
+601	601.0	61	2	2	7
+602	602.0	70	4	8	8
+603	603.0	59	2	5	9
+604	604.0	58	2	5	6
+605	605.0	60	2	2	3
+606	606.0	49	2	3	4
+607	607.0	66	1	5	4
+608	608.0	61	1	8	7
+609	609.0	48	6	7	10
+610	610.0	63	3	7	7
+611	611.0	58	1	6	4
+612	612.0	55	4	5	7
+613	613.0	48	1	1	5
+614	614.0	38	1	5	4
+615	615.0	39	1	3	7
+616	616.0	45	2	5	4
+617	617.0	46	0	4	4
+618	618.0	28	2	5	1
+619	619.0	36	2	5	6
+620	620.0	39	1	3	4
+621	621.0	52	1	3	4
+622	622.0	44	1	1	6
+623	623.0	58	1	1	4
+624	624.0	46	3	4	7
+625	625.0	37	1	3	8
+626	626.0	49	2	3	5
+627	627.0	45	1	2	5
+628	628.0	38	1	3	3
+629	629.0	52	3	4	7
+630	630.0	33	2	3	6
+631	631.0	32	2	4	2
+632	632.0	37	2	3	4
+633	633.0	42	4	6	7
+634	634.0	41	2	5	6
+635	635.0	39	0	7	5
+636	636.0	28	2	5	4
+637	637.0	44	0	4	5
+638	638.0	55	4	4	8
+639	639.0	41	0	4	2
+640	640.0	37	2	4	4
+641	641.0	36	0	4	2
+642	642.0	37	1	4	1
+643	643.0	42	1	1	4
+644	644.0	42	3	4	5
+645	645.0	36	2	3	4
+646	646.0	47	1	4	7
+647	647.0	27	1	3	3
+648	648.0	41	2	5	5
+649	649.0	34	1	3	2
+650	650.0	37	1	2	3
+651	651.0	31	2	7	3
+652	652.0	40	1	3	1
+653	653.0	32	0	1	2
+654	654.0	26	1	2	2
+655	655.0	37	1	0	7
+656	656.0	31	1	1	1
+657	657.0	35	1	3	1
+658	658.0	36	1	1	5
+659	659.0	26	2	1	4
+660	660.0	19	0	0	3
+661	661.0	34	0	2	1
+662	662.0	31	3	7	4
+663	663.0	20	0	2	0
+664	664.0	32	0	1	0
+665	665.0	26	1	3	3
+666	666.0	38	1	2	3
+667	667.0	23	1	1	1
+668	668.0	18	1	2	2
+669	669.0	28	2	2	5
+670	670.0	23	1	4	3
+671	671.0	33	2	2	4
+672	672.0	30	2	2	3
+673	673.0	28	4	6	7
+674	674.0	18	1	1	1
+675	675.0	32	4	4	6
+676	676.0	21	1	1	1
+677	677.0	20	2	1	2
+678	678.0	26	2	3	4
+679	679.0	25	0	3	1
+680	680.0	15	1	2	1
+681	681.0	28	2	1	3
+682	682.0	19	3	2	9
+683	683.0	26	2	2	5
+684	684.0	10	0	0	0
+685	685.0	22	0	3	1
+686	686.0	24	1	1	2
+687	687.0	18	0	0	1
+688	688.0	10	0	1	0
+689	689.0	16	0	0	0
+690	690.0	21	0	2	1
+691	691.0	28	1	1	5
+692	692.0	20	0	2	0
+693	693.0	16	1	3	2
+694	694.0	20	1	2	3
+695	695.0	21	0	0	2
+696	696.0	12	0	3	2
+697	697.0	12	1	2	1
+698	698.0	15	1	1	4
+699	699.0	8	0	1	1
+700	700.0	6	0	0	0
+701	701.0	18	0	0	0
+702	702.0	16	0	0	0
+703	703.0	17	1	2	3
+704	704.0	17	0	0	0
+705	705.0	13	0	1	2
+706	706.0	21	0	2	0
+707	707.0	18	3	2	5
+708	708.0	15	1	1	2
+709	709.0	17	1	2	2
+710	710.0	10	0	0	1
+711	711.0	17	1	1	1
+712	712.0	15	1	1	2
+713	713.0	10	0	1	0
+714	714.0	9	1	1	1
+715	715.0	16	1	1	2
+716	716.0	13	0	0	0
+717	717.0	11	0	0	0
+718	718.0	16	0	1	1
+719	719.0	12	1	2	2
+720	720.0	8	0	0	1
+721	721.0	16	0	0	0
+722	722.0	10	1	1	2
+723	723.0	19	0	2	1
+724	724.0	11	0	0	0
+725	725.0	10	1	0	2
+726	726.0	9	0	1	0
+727	727.0	10	0	0	0
+728	728.0	10	0	2	0
+729	729.0	7	0	0	0
+730	730.0	9	2	2	2
+731	731.0	13	2	1	3
+732	732.0	6	0	0	1
+733	733.0	10	0	1	0
+734	734.0	12	1	1	1
+735	735.0	9	0	0	0
+736	736.0	10	1	1	1
+737	737.0	11	0	0	0
+738	738.0	12	1	3	2
+739	739.0	5	0	0	0
+740	740.0	11	0	0	0
+741	741.0	10	0	0	0
+742	742.0	4	0	0	0
+743	743.0	7	1	1	2
+744	744.0	11	0	0	0
+745	745.0	14	0	0	0
+746	746.0	13	0	0	1
+747	747.0	4	0	0	0
+748	748.0	13	2	2	3
+749	749.0	9	0	0	0
+750	750.0	6	0	0	0
+751	751.0	10	0	0	0
+752	752.0	4	0	0	0
+753	753.0	3	0	1	0
+754	754.0	8	0	0	0
+755	755.0	9	0	0	1
+756	756.0	11	1	2	1
+757	757.0	5	0	0	0
+758	758.0	2	0	0	0
+759	759.0	6	0	0	0
+760	760.0	10	0	0	1
+761	761.0	5	0	1	0
+762	762.0	6	0	1	0
+763	763.0	11	1	2	1
+764	764.0	11	0	0	1
+765	765.0	6	0	0	0
+766	766.0	4	0	0	0
+767	767.0	10	0	2	0
+768	768.0	4	0	1	0
+769	769.0	10	0	0	0
+770	770.0	5	0	1	1
+771	771.0	6	1	0	1
+772	772.0	8	0	0	0
+773	773.0	12	1	3	1
+774	774.0	2	0	1	0
+775	775.0	12	1	1	1
+776	776.0	6	2	3	2
+777	777.0	7	1	1	2
+778	778.0	5	0	0	0
+779	779.0	7	0	1	0
+780	780.0	4	0	0	0
+781	781.0	4	1	1	1
+782	782.0	3	0	0	1
+783	783.0	2	0	0	0
+784	784.0	5	1	0	1
+785	785.0	7	2	1	2
+786	786.0	14	1	2	2
+787	787.0	1	1	1	1
+788	788.0	4	0	0	0
+789	789.0	3	0	0	0
+790	790.0	8	0	0	0
+791	791.0	10	1	2	1
+792	792.0	3	0	0	0
+793	793.0	9	1	2	1
+794	794.0	3	2	1	2
+795	795.0	6	0	0	0
+796	796.0	5	0	0	1
+797	797.0	3	0	0	0
+798	798.0	2	0	0	0
+799	799.0	5	0	0	1
+800	800.0	2	0	0	1
+801	801.0	4	1	1	1
+802	802.0	2	0	0	1
+803	803.0	7	0	0	0
+804	804.0	6	0	0	1
+805	805.0	6	1	0	1
+806	806.0	5	1	1	1
+807	807.0	7	0	0	0
+808	808.0	9	1	2	1
+809	809.0	2	0	0	0
+810	810.0	1	0	0	0
+811	811.0	5	0	0	0
+812	812.0	10	1	1	1
+813	813.0	0	0	0	0
+814	814.0	6	1	1	1
+815	815.0	2	0	0	0
+816	816.0	2	0	0	0
+817	817.0	4	0	0	0
+818	818.0	4	0	1	0
+819	819.0	5	1	1	2
+820	820.0	4	0	1	0
+821	821.0	0	0	0	0
+822	822.0	4	0	2	0
+823	823.0	4	0	1	0
+824	824.0	4	0	0	0
+825	825.0	6	0	1	0
+826	826.0	5	0	0	0
+827	827.0	4	0	0	0
+828	828.0	3	0	0	0
+829	829.0	3	1	1	1
+830	830.0	3	0	1	0
+831	831.0	5	0	0	0
+832	832.0	2	1	1	1
+833	833.0	1	0	0	0
+834	834.0	1	1	1	1
+835	835.0	2	0	0	0
+836	836.0	3	0	0	0
+837	837.0	4	0	0	0
+838	838.0	5	2	1	2
+839	839.0	5	3	0	3
+840	840.0	2	0	0	0
+841	841.0	3	1	0	1
+842	842.0	2	0	0	0
+843	843.0	1	0	0	0
+844	844.0	4	0	0	0
+845	845.0	2	0	0	0
+846	846.0	3	1	0	1
+847	847.0	2	0	0	0
+848	848.0	4	0	0	0
+849	849.0	3	0	0	0
+850	850.0	3	0	1	0
+851	851.0	2	0	0	0
+852	852.0	4	0	0	0
+853	853.0	5	0	1	0
+854	854.0	5	0	0	0
+855	855.0	2	0	0	0
+856	856.0	4	1	1	1
+857	857.0	3	0	0	0
+858	858.0	2	0	0	0
+859	859.0	1	0	0	0
+860	860.0	1	0	0	0
+861	861.0	2	0	0	0
+862	862.0	3	0	0	0
+863	863.0	1	0	0	0
+864	864.0	1	0	0	0
+865	865.0	2	0	0	0
+866	866.0	3	0	0	0
+867	867.0	2	0	0	0
+868	868.0	3	1	2	1
+869	869.0	1	0	0	0
+870	870.0	4	1	2	1
+871	871.0	2	0	0	0
+872	872.0	1	0	0	1
+873	873.0	1	0	0	0
+874	874.0	0	0	0	0
+875	875.0	3	0	0	0
+876	876.0	4	0	0	0
+877	877.0	1	0	0	0
+878	878.0	2	0	0	0
+879	879.0	3	0	0	0
+880	880.0	3	0	0	0
+881	881.0	3	0	1	0
+882	882.0	4	0	0	0
+883	883.0	2	0	1	0
+884	884.0	0	0	0	0
+885	885.0	1	0	0	0
+886	886.0	2	0	0	0
+887	887.0	1	0	0	0
+888	888.0	3	0	0	0
+889	889.0	3	1	1	1
+890	890.0	1	0	0	0
+891	891.0	4	1	2	1
+892	892.0	0	0	0	0
+893	893.0	2	0	0	0
+894	894.0	1	0	0	0
+895	895.0	3	0	0	0
+896	896.0	1	0	0	0
+897	897.0	1	0	0	0
+898	898.0	0	0	0	0
+899	899.0	0	0	0	0
+900	900.0	2	0	0	0
+901	901.0	2	0	0	0
+902	902.0	0	0	0	0
+903	903.0	0	0	0	0
+904	904.0	1	0	0	0
+905	905.0	1	0	0	0
+906	906.0	2	0	0	0
+907	907.0	4	0	0	0
+908	908.0	3	0	0	0
+909	909.0	2	0	0	0
+910	910.0	3	0	0	0
+911	911.0	1	0	0	0
+912	912.0	1	0	0	0
+913	913.0	2	0	0	0
+914	914.0	0	0	0	0
+915	915.0	2	0	0	0
+916	916.0	2	0	0	0
+917	917.0	0	0	0	0
+918	918.0	0	0	0	0
+919	919.0	2	0	0	0
+920	920.0	0	0	0	0
+921	921.0	1	0	0	0
+922	922.0	3	0	0	0
+923	923.0	1	0	0	0
+924	924.0	0	0	0	0
+925	925.0	2	0	0	0
+926	926.0	0	0	0	0
+927	927.0	3	0	0	0
+928	928.0	3	0	0	0
+929	929.0	2	0	0	0
+930	930.0	0	0	0	0
+931	931.0	2	0	0	0
+932	932.0	0	0	0	0
+933	933.0	1	0	0	0
+934	934.0	1	0	0	0
+935	935.0	3	0	0	0
+936	936.0	2	0	0	0
+937	937.0	2	0	0	0
+938	938.0	0	0	0	0
+939	939.0	0	0	0	0
+940	940.0	0	0	0	0
+941	941.0	0	0	0	0
+942	942.0	1	0	0	0
+943	943.0	1	1	0	1
+944	944.0	1	0	0	0
+945	945.0	0	0	0	0
+946	946.0	0	0	0	0
+947	947.0	1	0	0	0
+948	948.0	1	0	0	0
+949	949.0	2	0	0	0
+950	950.0	0	0	0	0
+951	951.0	2	0	0	0
+952	952.0	1	0	0	0
+953	953.0	1	0	0	0
+954	954.0	0	0	0	0
+955	955.0	0	0	0	0
+956	956.0	1	0	0	0
+957	957.0	2	0	0	0
+958	958.0	0	0	0	0
+959	959.0	0	0	0	0
+960	960.0	2	1	1	1
+961	961.0	2	0	0	0
+962	962.0	0	0	0	0
+963	963.0	0	0	0	0
+964	964.0	1	0	0	0
+965	965.0	0	0	0	0
+966	966.0	0	0	0	0
+967	967.0	1	0	0	0
+968	968.0	2	0	0	0
+969	969.0	2	0	0	0
+970	970.0	0	0	0	0
+971	971.0	1	0	0	0
+972	972.0	0	0	0	0
+973	973.0	0	0	0	0
+974	974.0	2	0	0	0
+975	975.0	0	0	0	0
+976	976.0	1	0	0	0
+977	977.0	0	0	0	0
+978	978.0	0	0	0	0
+979	979.0	0	0	0	0
+980	980.0	0	0	0	0
+981	981.0	0	0	0	0
+982	982.0	0	0	0	0
+983	983.0	0	0	0	0
+984	984.0	0	0	0	0
+985	985.0	1	0	0	0
+986	986.0	1	0	0	0
+987	987.0	1	0	0	0
+988	988.0	1	0	0	0
+989	989.0	0	0	0	0
+990	990.0	1	0	0	0
+991	991.0	2	0	0	0
+992	992.0	0	0	0	0
+993	993.0	0	0	0	0
+994	994.0	1	0	0	0
+995	995.0	1	1	1	1
+996	996.0	1	0	0	0
+997	997.0	2	0	0	0
+998	998.0	1	0	0	0
+999	999.0	0	0	0	0
+
+------------------------------------------------------------
+Sender: LSF System <lsf@kiso0018>
+Subject: Job 690295: <java -Xmx2048m -classpath hps-java/target/hps-java-1.2-SNAPSHOT-bin.jar org.lcsim.hps.util.CalculateAcceptanceFromMadGraph -n 1000 -e 4.4 -t BH -b 1> Done
+
+Job <java -Xmx2048m -classpath hps-java/target/hps-java-1.2-SNAPSHOT-bin.jar org.lcsim.hps.util.CalculateAcceptanceFromMadGraph -n 1000 -e 4.4 -t BH -b 1> was submitted from host <yakut01> by user <mgraham>.
+Job was executed on host(s) <kiso0018>, in queue <xlong>, as user <mgraham>.
+</u/br/mgraham> was used as the home directory.
+</nfs/slac/g/hps/mgraham/DarkPhoton> was used as the working directory.
+Started at Mon Jan  7 19:46:53 2013
+Results reported at Mon Jan  7 20:07:25 2013
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+java -Xmx2048m -classpath hps-java/target/hps-java-1.2-SNAPSHOT-bin.jar org.lcsim.hps.util.CalculateAcceptanceFromMadGraph -n 1000 -e 4.4 -t BH -b 1
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time   :   1000.37 sec.
+    Max Memory :       552 MB
+    Max Swap   :      2296 MB
+
+    Max Processes  :         4
+    Max Threads    :        32
+
+The output (if any) is above this job summary.
+

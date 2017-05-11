@@ -1,0 +1,1246 @@
+Trying parser
+100
+6.6
+1.5
+TriComp
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_0_unweighted_events.lhe
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_1_unweighted_events.lhe
+==== processing /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_1_unweighted_events.lhe ====
+Found 4102 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_2_unweighted_events.lhe
+Found 5565 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_3_unweighted_events.lhe
+Found 4141 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_4_unweighted_events.lhe
+Found 5078 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_5_unweighted_events.lhe
+Found 4127 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_6_unweighted_events.lhe
+Found 3995 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_7_unweighted_events.lhe
+Found 3740 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_8_unweighted_events.lhe
+Found 3006 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_9_unweighted_events.lhe
+Found 4123 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_10_unweighted_events.lhe
+Found 1606 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_11_unweighted_events.lhe
+Found 1609 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_12_unweighted_events.lhe
+Found 4123 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_13_unweighted_events.lhe
+Found 3004 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_14_unweighted_events.lhe
+Found 3005 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_15_unweighted_events.lhe
+Found 2206 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_16_unweighted_events.lhe
+Found 4360 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_17_unweighted_events.lhe
+Found 3015 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_18_unweighted_events.lhe
+Found 3010 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_19_unweighted_events.lhe
+Found 4105 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_20_unweighted_events.lhe
+Found 3008 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_21_unweighted_events.lhe
+Found 2235 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_22_unweighted_events.lhe
+Found 5450 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_23_unweighted_events.lhe
+Found 3020 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_24_unweighted_events.lhe
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_25_unweighted_events.lhe
+Found 2714 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_26_unweighted_events.lhe
+Found 4139 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_27_unweighted_events.lhe
+Found 1168 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_28_unweighted_events.lhe
+Found 2214 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_29_unweighted_events.lhe
+Found 3015 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_30_unweighted_events.lhe
+Found 2859 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_31_unweighted_events.lhe
+Found 3355 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_32_unweighted_events.lhe
+Found 1526 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_33_unweighted_events.lhe
+Found 2200 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_34_unweighted_events.lhe
+Found 1175 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_35_unweighted_events.lhe
+Found 4096 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_36_unweighted_events.lhe
+Found 3028 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_37_unweighted_events.lhe
+Found 4123 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_38_unweighted_events.lhe
+Found 3002 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_39_unweighted_events.lhe
+Found 3006 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_40_unweighted_events.lhe
+Found 3005 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_41_unweighted_events.lhe
+Found 4109 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_42_unweighted_events.lhe
+Found 5633 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_43_unweighted_events.lhe
+Found 3552 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_44_unweighted_events.lhe
+Found 4049 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_45_unweighted_events.lhe
+Found 4114 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_46_unweighted_events.lhe
+Found 1157 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_47_unweighted_events.lhe
+Found 2210 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_48_unweighted_events.lhe
+Found 4145 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_49_unweighted_events.lhe
+Found 2911 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_50_unweighted_events.lhe
+Found 6279 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_51_unweighted_events.lhe
+Found 4114 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_52_unweighted_events.lhe
+Found 4103 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_53_unweighted_events.lhe
+Found 3000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_54_unweighted_events.lhe
+Found 4114 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_55_unweighted_events.lhe
+Found 2202 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_56_unweighted_events.lhe
+Found 4127 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_57_unweighted_events.lhe
+Found 4102 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_58_unweighted_events.lhe
+Found 2944 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_59_unweighted_events.lhe
+Found 3523 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_60_unweighted_events.lhe
+Found 4138 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_61_unweighted_events.lhe
+Found 4120 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_62_unweighted_events.lhe
+Found 4357 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_63_unweighted_events.lhe
+Found 4119 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_64_unweighted_events.lhe
+Found 3022 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_65_unweighted_events.lhe
+Found 2206 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_66_unweighted_events.lhe
+Found 2935 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_67_unweighted_events.lhe
+Found 4824 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_68_unweighted_events.lhe
+Found 3022 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_69_unweighted_events.lhe
+Found 3003 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_70_unweighted_events.lhe
+Found 3714 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_71_unweighted_events.lhe
+Found 2201 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_72_unweighted_events.lhe
+Found 3738 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_73_unweighted_events.lhe
+Found 3552 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_74_unweighted_events.lhe
+Found 4120 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_75_unweighted_events.lhe
+Found 3934 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_76_unweighted_events.lhe
+Found 4145 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_77_unweighted_events.lhe
+Found 4120 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_78_unweighted_events.lhe
+Found 2860 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_79_unweighted_events.lhe
+Found 2225 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_80_unweighted_events.lhe
+Found 3027 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_81_unweighted_events.lhe
+Found 1615 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_82_unweighted_events.lhe
+Found 4116 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_83_unweighted_events.lhe
+Found 2207 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_84_unweighted_events.lhe
+Found 3023 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_85_unweighted_events.lhe
+Found 3912 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_86_unweighted_events.lhe
+Found 3015 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_87_unweighted_events.lhe
+Found 4121 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_88_unweighted_events.lhe
+Found 2199 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_89_unweighted_events.lhe
+Found 4088 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_90_unweighted_events.lhe
+Found 4111 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_91_unweighted_events.lhe
+Found 3022 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_92_unweighted_events.lhe
+Found 1165 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_93_unweighted_events.lhe
+Found 4097 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_94_unweighted_events.lhe
+Found 3010 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_95_unweighted_events.lhe
+Found 3009 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_96_unweighted_events.lhe
+Found 3000 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_97_unweighted_events.lhe
+Found 5658 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_98_unweighted_events.lhe
+Found 3737 events
+Unzipping /nfs/slac/g/hps/mgraham/DarkPhoton/MadGraph/Events6pt6TriComp/W6pt6GeV_TriComp_99_unweighted_events.lhe
+Found 4113 events
+nGenerated = 666467
+nPass(Full) = 67181
+nPass(Lyr50)= 5203
+nPass(NoMax) = 93089
+*********    Histograms      ***********   
+bin     mass   Gen    Lyr1     Target50   NoMax 
+0	 0.0	0	0	0	0
+1	 1.0	1	0	0	0
+2	 2.0	14	0	0	0
+3	 3.0	34	0	0	0
+4	 4.0	98	0	0	0
+5	 5.0	151	0	0	0
+6	 6.0	279	0	0	0
+7	 7.0	393	0	0	0
+8	 8.0	613	0	0	0
+9	 9.0	762	0	0	0
+10	10.0	936	0	0	0
+11	11.0	1183	0	0	0
+12	12.0	1405	0	0	0
+13	13.0	1638	0	0	0
+14	14.0	1956	0	0	0
+15	15.0	2137	0	0	0
+16	16.0	2437	0	0	0
+17	17.0	2678	0	0	0
+18	18.0	3013	0	0	0
+19	19.0	3281	0	0	0
+20	20.0	3601	0	0	0
+21	21.0	3770	0	0	0
+22	22.0	4096	0	0	0
+23	23.0	3964	0	0	0
+24	24.0	4011	0	0	0
+25	25.0	4217	0	0	0
+26	26.0	4091	0	0	0
+27	27.0	4038	0	0	0
+28	28.0	3789	0	0	0
+29	29.0	3850	0	0	0
+30	30.0	3878	1	0	1
+31	31.0	3749	2	0	2
+32	32.0	3555	0	0	0
+33	33.0	3532	0	0	0
+34	34.0	3384	2	0	2
+35	35.0	3336	2	0	2
+36	36.0	3286	0	0	0
+37	37.0	3132	2	0	2
+38	38.0	3168	2	0	2
+39	39.0	3079	1	0	1
+40	40.0	3012	0	0	0
+41	41.0	2902	0	0	0
+42	42.0	2875	2	0	2
+43	43.0	2801	3	0	3
+44	44.0	2828	3	0	4
+45	45.0	2754	2	0	2
+46	46.0	2689	4	0	5
+47	47.0	2622	0	0	1
+48	48.0	2584	4	0	5
+49	49.0	2518	0	0	2
+50	50.0	2758	0	0	1
+51	51.0	2570	2	0	5
+52	52.0	2567	2	0	3
+53	53.0	2621	4	0	8
+54	54.0	2608	3	0	5
+55	55.0	2614	2	0	4
+56	56.0	2664	4	0	6
+57	57.0	2589	3	0	8
+58	58.0	2631	1	0	5
+59	59.0	2690	2	0	4
+60	60.0	2719	2	0	7
+61	61.0	2835	1	0	5
+62	62.0	2963	3	0	9
+63	63.0	2952	1	0	7
+64	64.0	2906	1	0	6
+65	65.0	3012	1	0	6
+66	66.0	3125	1	0	10
+67	67.0	3255	2	0	11
+68	68.0	3303	2	0	16
+69	69.0	3484	4	0	16
+70	70.0	3460	2	0	15
+71	71.0	3603	7	0	15
+72	72.0	3697	2	0	14
+73	73.0	3785	5	0	9
+74	74.0	3758	5	0	16
+75	75.0	3733	3	0	7
+76	76.0	3909	5	0	10
+77	77.0	3959	6	0	16
+78	78.0	4054	9	0	19
+79	79.0	4080	11	0	24
+80	80.0	3976	13	0	38
+81	81.0	4048	11	0	29
+82	82.0	4091	14	0	30
+83	83.0	4076	22	0	36
+84	84.0	4134	29	0	41
+85	85.0	4150	33	0	53
+86	86.0	4071	53	0	67
+87	87.0	4174	57	0	74
+88	88.0	4057	72	0	88
+89	89.0	4186	72	0	83
+90	90.0	4066	101	0	115
+91	91.0	4162	125	0	140
+92	92.0	4070	116	0	131
+93	93.0	4156	138	0	150
+94	94.0	4128	145	0	156
+95	95.0	4157	153	0	174
+96	96.0	4034	168	0	191
+97	97.0	3965	177	0	202
+98	98.0	4092	180	0	201
+99	99.0	3802	198	0	214
+100	100.0	4001	237	0	248
+101	101.0	3986	248	0	273
+102	102.0	3921	288	0	303
+103	103.0	3844	261	0	286
+104	104.0	3847	329	0	347
+105	105.0	3847	338	0	354
+106	106.0	3774	315	0	333
+107	107.0	3689	349	0	373
+108	108.0	3866	393	0	410
+109	109.0	3628	404	0	421
+110	110.0	3649	374	0	392
+111	111.0	3628	426	0	441
+112	112.0	3498	410	0	441
+113	113.0	3674	431	0	449
+114	114.0	3429	424	0	446
+115	115.0	3511	464	0	487
+116	116.0	3472	440	0	468
+117	117.0	3536	480	0	505
+118	118.0	3358	494	0	515
+119	119.0	3420	475	0	499
+120	120.0	3298	493	0	513
+121	121.0	3325	491	0	511
+122	122.0	3246	488	0	516
+123	123.0	3248	550	0	574
+124	124.0	3181	511	0	540
+125	125.0	3105	508	0	528
+126	126.0	3132	502	0	524
+127	127.0	3079	543	0	567
+128	128.0	3007	569	0	588
+129	129.0	2877	475	0	505
+130	130.0	3041	503	0	530
+131	131.0	2956	522	0	546
+132	132.0	2994	511	0	537
+133	133.0	2858	521	0	540
+134	134.0	2897	568	0	591
+135	135.0	2775	528	0	556
+136	136.0	2890	561	0	595
+137	137.0	2823	550	0	583
+138	138.0	2764	569	0	598
+139	139.0	2768	512	0	541
+140	140.0	2690	527	0	559
+141	141.0	2613	528	0	556
+142	142.0	2648	542	0	572
+143	143.0	2618	514	0	544
+144	144.0	2550	560	0	586
+145	145.0	2413	467	0	497
+146	146.0	2567	513	0	551
+147	147.0	2514	531	0	571
+148	148.0	2417	493	0	528
+149	149.0	2368	503	0	543
+150	150.0	2357	502	0	534
+151	151.0	2458	513	1	559
+152	152.0	2405	538	0	579
+153	153.0	2265	499	0	537
+154	154.0	2264	452	0	494
+155	155.0	2254	498	0	541
+156	156.0	2184	496	0	532
+157	157.0	2265	493	1	533
+158	158.0	2214	528	0	564
+159	159.0	2119	483	0	521
+160	160.0	2195	539	0	581
+161	161.0	2095	485	0	515
+162	162.0	2071	451	0	487
+163	163.0	2074	472	0	512
+164	164.0	1973	448	0	495
+165	165.0	2006	462	1	507
+166	166.0	1902	429	2	479
+167	167.0	1971	454	3	498
+168	168.0	1890	417	0	459
+169	169.0	1965	474	3	526
+170	170.0	1924	477	4	529
+171	171.0	1863	425	3	477
+172	172.0	1834	432	5	481
+173	173.0	1825	428	3	478
+174	174.0	1787	436	4	472
+175	175.0	1777	433	5	485
+176	176.0	1808	432	5	494
+177	177.0	1694	423	8	473
+178	178.0	1708	425	4	478
+179	179.0	1700	386	5	438
+180	180.0	1664	416	2	475
+181	181.0	1648	439	12	489
+182	182.0	1679	411	11	469
+183	183.0	1603	371	8	430
+184	184.0	1582	423	11	470
+185	185.0	1601	380	11	438
+186	186.0	1642	402	17	459
+187	187.0	1553	360	9	408
+188	188.0	1491	384	10	442
+189	189.0	1519	379	10	414
+190	190.0	1496	382	12	437
+191	191.0	1446	365	13	423
+192	192.0	1419	350	13	401
+193	193.0	1451	364	18	409
+194	194.0	1435	373	19	426
+195	195.0	1391	346	18	410
+196	196.0	1430	362	24	425
+197	197.0	1354	332	21	395
+198	198.0	1331	354	18	405
+199	199.0	1348	326	20	373
+200	200.0	1330	308	11	372
+201	201.0	1330	329	21	391
+202	202.0	1272	293	26	357
+203	203.0	1282	314	24	376
+204	204.0	1269	312	20	388
+205	205.0	1259	299	26	359
+206	206.0	1219	302	18	374
+207	207.0	1169	302	26	356
+208	208.0	1121	259	16	314
+209	209.0	1177	275	21	350
+210	210.0	1133	261	22	341
+211	211.0	1085	279	27	351
+212	212.0	1109	275	30	344
+213	213.0	1089	260	29	343
+214	214.0	1199	319	35	387
+215	215.0	1102	273	29	344
+216	216.0	1115	267	24	337
+217	217.0	1042	263	32	322
+218	218.0	1092	236	28	319
+219	219.0	1085	281	33	375
+220	220.0	1068	253	26	323
+221	221.0	1035	245	28	324
+222	222.0	1001	245	31	313
+223	223.0	959	242	33	306
+224	224.0	960	222	32	310
+225	225.0	952	225	34	321
+226	226.0	924	223	34	305
+227	227.0	956	209	26	298
+228	228.0	914	203	23	286
+229	229.0	929	214	41	300
+230	230.0	901	214	24	303
+231	231.0	926	235	39	318
+232	232.0	903	207	30	308
+233	233.0	887	219	43	298
+234	234.0	894	193	32	280
+235	235.0	846	200	35	275
+236	236.0	862	170	25	277
+237	237.0	836	191	36	281
+238	238.0	886	201	32	312
+239	239.0	828	191	47	274
+240	240.0	798	180	31	270
+241	241.0	827	193	43	289
+242	242.0	734	173	34	249
+243	243.0	780	180	36	296
+244	244.0	817	183	42	289
+245	245.0	762	146	28	238
+246	246.0	785	136	30	239
+247	247.0	739	163	42	254
+248	248.0	767	189	44	260
+249	249.0	717	158	45	244
+250	250.0	772	162	41	260
+251	251.0	690	151	35	255
+252	252.0	684	144	39	254
+253	253.0	705	150	30	252
+254	254.0	726	149	33	268
+255	255.0	651	133	38	229
+256	256.0	664	134	37	224
+257	257.0	753	158	47	263
+258	258.0	678	128	35	232
+259	259.0	627	125	39	231
+260	260.0	605	119	36	211
+261	261.0	649	137	40	237
+262	262.0	661	142	45	241
+263	263.0	590	108	27	202
+264	264.0	575	122	34	221
+265	265.0	593	109	39	208
+266	266.0	643	113	30	224
+267	267.0	609	93	30	200
+268	268.0	598	99	38	200
+269	269.0	587	97	33	214
+270	270.0	606	113	34	228
+271	271.0	583	103	36	198
+272	272.0	548	85	31	200
+273	273.0	580	83	27	191
+274	274.0	534	88	33	189
+275	275.0	563	98	39	213
+276	276.0	579	97	32	188
+277	277.0	524	101	32	197
+278	278.0	510	98	32	198
+279	279.0	505	93	32	193
+280	280.0	536	74	27	175
+281	281.0	500	95	29	179
+282	282.0	465	60	23	164
+283	283.0	513	90	33	214
+284	284.0	462	77	31	161
+285	285.0	547	90	31	211
+286	286.0	503	80	30	186
+287	287.0	480	63	31	173
+288	288.0	471	89	39	197
+289	289.0	480	73	32	180
+290	290.0	450	70	30	160
+291	291.0	441	65	26	170
+292	292.0	421	62	26	142
+293	293.0	438	76	29	170
+294	294.0	458	65	32	166
+295	295.0	430	65	23	155
+296	296.0	426	54	27	148
+297	297.0	438	62	27	176
+298	298.0	440	59	26	150
+299	299.0	411	60	26	156
+300	300.0	411	61	28	157
+301	301.0	399	52	20	158
+302	302.0	400	47	19	142
+303	303.0	409	56	21	161
+304	304.0	376	56	27	142
+305	305.0	415	54	20	150
+306	306.0	378	50	23	128
+307	307.0	385	56	27	157
+308	308.0	367	51	22	135
+309	309.0	355	59	33	149
+310	310.0	356	56	26	140
+311	311.0	327	37	15	133
+312	312.0	375	53	29	139
+313	313.0	343	37	21	116
+314	314.0	364	47	22	138
+315	315.0	316	48	19	120
+316	316.0	337	41	22	119
+317	317.0	325	40	19	126
+318	318.0	333	41	20	136
+319	319.0	302	47	27	121
+320	320.0	342	41	25	136
+321	321.0	307	41	20	139
+322	322.0	314	37	12	111
+323	323.0	302	32	12	125
+324	324.0	280	34	23	99
+325	325.0	311	33	13	124
+326	326.0	292	37	18	114
+327	327.0	335	48	21	127
+328	328.0	318	37	21	131
+329	329.0	287	35	20	118
+330	330.0	300	31	18	124
+331	331.0	285	35	17	104
+332	332.0	273	31	21	108
+333	333.0	276	22	13	104
+334	334.0	262	26	19	87
+335	335.0	283	38	19	111
+336	336.0	285	28	18	111
+337	337.0	283	38	15	106
+338	338.0	241	26	10	89
+339	339.0	283	39	24	118
+340	340.0	254	24	12	113
+341	341.0	283	30	6	116
+342	342.0	244	26	17	102
+343	343.0	273	26	14	110
+344	344.0	246	21	14	96
+345	345.0	262	40	30	125
+346	346.0	237	27	13	91
+347	347.0	302	30	23	112
+348	348.0	219	20	10	85
+349	349.0	233	27	13	94
+350	350.0	251	28	17	90
+351	351.0	242	17	9	92
+352	352.0	210	22	10	82
+353	353.0	220	26	13	92
+354	354.0	220	21	11	89
+355	355.0	218	28	9	98
+356	356.0	223	22	11	91
+357	357.0	205	22	13	78
+358	358.0	218	20	8	96
+359	359.0	203	20	13	79
+360	360.0	225	22	11	96
+361	361.0	206	19	10	96
+362	362.0	209	19	10	85
+363	363.0	221	21	12	92
+364	364.0	215	19	14	88
+365	365.0	219	23	14	90
+366	366.0	206	24	8	91
+367	367.0	191	20	7	77
+368	368.0	190	16	8	75
+369	369.0	202	16	9	86
+370	370.0	193	17	10	80
+371	371.0	187	19	9	76
+372	372.0	159	17	11	74
+373	373.0	174	16	7	80
+374	374.0	184	26	12	84
+375	375.0	189	13	7	73
+376	376.0	166	16	13	77
+377	377.0	181	11	3	76
+378	378.0	168	19	10	70
+379	379.0	179	24	7	81
+380	380.0	158	11	8	64
+381	381.0	173	16	6	83
+382	382.0	158	18	6	75
+383	383.0	127	14	2	54
+384	384.0	166	16	9	71
+385	385.0	143	15	5	61
+386	386.0	161	13	6	61
+387	387.0	173	20	11	89
+388	388.0	137	18	6	61
+389	389.0	156	17	9	74
+390	390.0	127	12	11	66
+391	391.0	154	13	3	66
+392	392.0	134	10	2	57
+393	393.0	142	10	3	52
+394	394.0	145	11	6	62
+395	395.0	139	16	5	70
+396	396.0	151	17	2	68
+397	397.0	134	10	8	61
+398	398.0	137	14	8	60
+399	399.0	144	14	5	66
+400	400.0	145	15	9	65
+401	401.0	128	7	3	57
+402	402.0	140	13	8	54
+403	403.0	163	11	5	65
+404	404.0	144	17	8	67
+405	405.0	132	12	8	62
+406	406.0	124	9	2	48
+407	407.0	138	12	3	57
+408	408.0	116	12	7	60
+409	409.0	131	11	3	55
+410	410.0	119	13	3	57
+411	411.0	128	11	5	64
+412	412.0	109	10	5	51
+413	413.0	139	12	6	67
+414	414.0	119	10	5	48
+415	415.0	121	11	4	61
+416	416.0	124	12	4	62
+417	417.0	121	9	8	48
+418	418.0	112	10	5	61
+419	419.0	113	14	4	49
+420	420.0	103	7	2	42
+421	421.0	104	7	2	55
+422	422.0	119	8	4	62
+423	423.0	116	8	4	47
+424	424.0	103	8	4	43
+425	425.0	105	10	4	41
+426	426.0	105	8	6	50
+427	427.0	126	4	3	54
+428	428.0	115	12	3	58
+429	429.0	100	6	2	33
+430	430.0	113	8	3	55
+431	431.0	86	5	2	37
+432	432.0	116	10	4	59
+433	433.0	93	7	2	45
+434	434.0	108	4	1	49
+435	435.0	86	7	1	35
+436	436.0	96	8	2	37
+437	437.0	107	12	0	50
+438	438.0	95	3	3	42
+439	439.0	73	7	0	36
+440	440.0	71	7	1	35
+441	441.0	82	5	2	39
+442	442.0	93	11	3	43
+443	443.0	90	6	2	43
+444	444.0	87	6	2	37
+445	445.0	102	5	1	51
+446	446.0	74	6	0	43
+447	447.0	83	12	3	37
+448	448.0	70	4	0	30
+449	449.0	80	5	0	41
+450	450.0	78	6	3	40
+451	451.0	67	8	1	31
+452	452.0	81	3	2	32
+453	453.0	88	8	2	42
+454	454.0	86	9	3	46
+455	455.0	87	10	2	38
+456	456.0	70	7	1	31
+457	457.0	86	5	1	41
+458	458.0	68	6	2	33
+459	459.0	82	8	2	36
+460	460.0	67	5	1	30
+461	461.0	82	8	1	39
+462	462.0	61	0	0	31
+463	463.0	62	4	1	27
+464	464.0	75	4	0	40
+465	465.0	73	8	0	35
+466	466.0	80	4	1	43
+467	467.0	73	8	1	44
+468	468.0	73	6	0	31
+469	469.0	61	8	2	36
+470	470.0	74	6	2	34
+471	471.0	62	4	1	24
+472	472.0	57	6	3	26
+473	473.0	67	2	0	34
+474	474.0	70	10	5	39
+475	475.0	61	2	1	28
+476	476.0	56	4	0	27
+477	477.0	73	10	1	37
+478	478.0	60	3	1	35
+479	479.0	60	10	3	31
+480	480.0	58	6	2	27
+481	481.0	43	4	2	20
+482	482.0	58	3	1	29
+483	483.0	56	3	0	29
+484	484.0	60	6	3	27
+485	485.0	51	5	1	24
+486	486.0	63	3	0	26
+487	487.0	57	6	0	28
+488	488.0	66	1	2	25
+489	489.0	62	1	0	23
+490	490.0	54	6	3	23
+491	491.0	62	1	1	30
+492	492.0	50	2	0	20
+493	493.0	53	4	0	36
+494	494.0	55	4	0	25
+495	495.0	51	7	2	29
+496	496.0	49	3	1	25
+497	497.0	53	4	0	26
+498	498.0	44	2	0	22
+499	499.0	48	7	1	26
+500	500.0	47	1	0	18
+501	501.0	56	3	0	22
+502	502.0	54	1	0	23
+503	503.0	51	2	1	26
+504	504.0	40	3	1	24
+505	505.0	54	8	1	32
+506	506.0	42	1	1	18
+507	507.0	45	3	0	16
+508	508.0	52	6	1	31
+509	509.0	41	3	1	20
+510	510.0	48	4	1	21
+511	511.0	52	4	0	23
+512	512.0	34	2	0	21
+513	513.0	42	4	1	15
+514	514.0	48	15	4	33
+515	515.0	36	1	0	16
+516	516.0	39	2	1	14
+517	517.0	38	2	1	20
+518	518.0	33	3	0	16
+519	519.0	45	4	2	28
+520	520.0	25	3	1	14
+521	521.0	42	8	0	20
+522	522.0	44	4	0	19
+523	523.0	18	1	0	10
+524	524.0	23	2	1	9
+525	525.0	49	4	1	28
+526	526.0	34	3	0	20
+527	527.0	35	3	0	14
+528	528.0	30	4	1	15
+529	529.0	41	1	1	24
+530	530.0	30	2	0	15
+531	531.0	29	0	1	12
+532	532.0	35	2	1	18
+533	533.0	39	5	2	25
+534	534.0	36	5	0	17
+535	535.0	25	2	3	11
+536	536.0	36	1	0	10
+537	537.0	35	5	1	23
+538	538.0	35	3	0	14
+539	539.0	33	2	0	14
+540	540.0	29	1	0	12
+541	541.0	30	2	1	17
+542	542.0	32	3	0	21
+543	543.0	24	2	1	12
+544	544.0	31	3	3	15
+545	545.0	33	1	0	18
+546	546.0	30	1	1	14
+547	547.0	27	3	0	14
+548	548.0	30	3	1	12
+549	549.0	31	3	0	11
+550	550.0	24	0	0	10
+551	551.0	30	1	0	16
+552	552.0	23	4	0	15
+553	553.0	34	2	2	22
+554	554.0	33	2	0	17
+555	555.0	34	3	0	21
+556	556.0	30	1	0	16
+557	557.0	33	6	2	15
+558	558.0	23	1	0	13
+559	559.0	21	1	0	9
+560	560.0	17	1	1	7
+561	561.0	22	1	0	12
+562	562.0	24	2	2	10
+563	563.0	23	2	0	13
+564	564.0	25	1	0	12
+565	565.0	26	3	2	12
+566	566.0	16	2	0	9
+567	567.0	25	3	0	11
+568	568.0	24	0	0	15
+569	569.0	33	3	0	16
+570	570.0	20	0	0	9
+571	571.0	36	3	0	20
+572	572.0	29	0	0	15
+573	573.0	20	0	0	10
+574	574.0	23	0	0	8
+575	575.0	19	1	0	13
+576	576.0	21	1	0	9
+577	577.0	23	1	0	10
+578	578.0	16	0	1	8
+579	579.0	15	3	0	8
+580	580.0	22	0	0	14
+581	581.0	16	1	0	2
+582	582.0	18	1	1	9
+583	583.0	15	0	0	10
+584	584.0	28	2	0	11
+585	585.0	15	1	1	6
+586	586.0	21	1	0	13
+587	587.0	22	1	0	13
+588	588.0	20	3	2	12
+589	589.0	24	3	2	11
+590	590.0	15	0	0	4
+591	591.0	15	0	0	6
+592	592.0	18	2	0	11
+593	593.0	9	0	0	3
+594	594.0	21	1	1	11
+595	595.0	16	0	0	8
+596	596.0	21	0	0	8
+597	597.0	16	0	0	5
+598	598.0	14	2	2	8
+599	599.0	10	2	0	4
+600	600.0	13	1	0	8
+601	601.0	14	0	0	6
+602	602.0	19	0	0	12
+603	603.0	17	0	0	12
+604	604.0	23	3	0	13
+605	605.0	16	1	0	11
+606	606.0	16	2	2	12
+607	607.0	18	1	0	13
+608	608.0	20	0	0	11
+609	609.0	10	0	0	7
+610	610.0	19	1	0	9
+611	611.0	15	2	0	6
+612	612.0	11	1	1	7
+613	613.0	13	1	0	5
+614	614.0	17	1	0	10
+615	615.0	9	0	0	4
+616	616.0	15	0	0	8
+617	617.0	27	1	0	14
+618	618.0	15	1	0	8
+619	619.0	12	0	0	8
+620	620.0	13	0	0	9
+621	621.0	19	2	1	6
+622	622.0	11	1	0	6
+623	623.0	13	4	0	11
+624	624.0	12	0	0	6
+625	625.0	16	0	0	5
+626	626.0	9	0	0	3
+627	627.0	17	0	1	11
+628	628.0	11	0	0	3
+629	629.0	10	1	2	7
+630	630.0	12	0	0	8
+631	631.0	12	1	1	6
+632	632.0	20	3	0	14
+633	633.0	19	1	0	12
+634	634.0	16	1	0	9
+635	635.0	10	0	0	5
+636	636.0	15	0	0	13
+637	637.0	11	0	0	4
+638	638.0	10	0	0	7
+639	639.0	12	1	0	6
+640	640.0	17	0	0	9
+641	641.0	13	1	0	5
+642	642.0	4	0	0	2
+643	643.0	8	0	0	3
+644	644.0	11	1	0	6
+645	645.0	13	0	0	8
+646	646.0	13	1	1	9
+647	647.0	4	0	0	3
+648	648.0	9	0	0	5
+649	649.0	6	0	0	5
+650	650.0	7	0	0	2
+651	651.0	17	1	0	10
+652	652.0	13	1	1	6
+653	653.0	14	1	0	6
+654	654.0	12	0	0	6
+655	655.0	10	0	0	7
+656	656.0	6	0	0	1
+657	657.0	9	0	0	6
+658	658.0	5	0	0	2
+659	659.0	13	2	1	10
+660	660.0	10	0	0	5
+661	661.0	6	2	0	2
+662	662.0	6	0	1	5
+663	663.0	8	0	0	4
+664	664.0	8	0	0	5
+665	665.0	6	0	0	0
+666	666.0	8	0	0	3
+667	667.0	9	1	1	8
+668	668.0	7	1	1	4
+669	669.0	11	0	0	7
+670	670.0	9	0	0	3
+671	671.0	5	0	0	3
+672	672.0	11	0	0	5
+673	673.0	3	1	0	3
+674	674.0	10	0	0	5
+675	675.0	7	0	0	3
+676	676.0	12	0	1	7
+677	677.0	9	0	0	4
+678	678.0	9	1	0	8
+679	679.0	10	0	0	6
+680	680.0	14	1	0	6
+681	681.0	9	0	0	3
+682	682.0	5	1	0	3
+683	683.0	13	1	1	8
+684	684.0	3	1	0	2
+685	685.0	7	1	0	2
+686	686.0	10	0	0	6
+687	687.0	9	0	1	6
+688	688.0	12	1	0	8
+689	689.0	1	0	0	0
+690	690.0	11	1	0	6
+691	691.0	7	0	0	3
+692	692.0	8	1	0	5
+693	693.0	12	0	0	9
+694	694.0	10	0	0	7
+695	695.0	8	0	0	4
+696	696.0	5	0	0	2
+697	697.0	2	0	0	1
+698	698.0	4	1	0	4
+699	699.0	5	0	0	1
+700	700.0	8	0	0	6
+701	701.0	6	0	0	3
+702	702.0	4	0	0	1
+703	703.0	8	0	0	7
+704	704.0	7	0	0	6
+705	705.0	5	0	0	3
+706	706.0	5	0	0	2
+707	707.0	3	0	0	1
+708	708.0	1	0	0	1
+709	709.0	3	0	0	1
+710	710.0	5	0	0	4
+711	711.0	6	1	0	5
+712	712.0	4	0	0	2
+713	713.0	11	0	0	2
+714	714.0	6	0	0	4
+715	715.0	9	0	0	6
+716	716.0	5	1	1	5
+717	717.0	5	0	0	3
+718	718.0	6	0	0	2
+719	719.0	3	0	0	1
+720	720.0	5	0	0	2
+721	721.0	6	0	0	3
+722	722.0	4	0	0	3
+723	723.0	7	0	0	5
+724	724.0	6	0	0	3
+725	725.0	2	0	0	1
+726	726.0	8	0	0	4
+727	727.0	2	0	0	2
+728	728.0	4	0	0	2
+729	729.0	8	0	0	6
+730	730.0	2	0	0	1
+731	731.0	5	0	0	3
+732	732.0	3	0	0	1
+733	733.0	6	0	0	5
+734	734.0	8	0	0	5
+735	735.0	8	1	0	4
+736	736.0	9	0	0	3
+737	737.0	3	0	0	3
+738	738.0	7	0	0	6
+739	739.0	6	0	0	2
+740	740.0	6	0	0	3
+741	741.0	6	0	0	2
+742	742.0	2	0	0	2
+743	743.0	5	1	1	2
+744	744.0	1	0	0	0
+745	745.0	3	0	0	1
+746	746.0	3	0	0	1
+747	747.0	3	0	0	3
+748	748.0	1	1	0	1
+749	749.0	5	0	0	4
+750	750.0	0	0	0	0
+751	751.0	4	0	0	2
+752	752.0	6	0	0	4
+753	753.0	5	0	0	4
+754	754.0	4	0	0	2
+755	755.0	5	0	0	3
+756	756.0	9	0	0	3
+757	757.0	5	0	0	4
+758	758.0	4	0	0	2
+759	759.0	4	0	0	3
+760	760.0	4	0	1	1
+761	761.0	5	0	0	2
+762	762.0	3	0	0	2
+763	763.0	4	0	0	0
+764	764.0	3	0	0	1
+765	765.0	4	0	0	4
+766	766.0	3	0	1	2
+767	767.0	3	0	0	1
+768	768.0	4	0	0	4
+769	769.0	2	0	0	1
+770	770.0	5	0	0	2
+771	771.0	1	0	0	1
+772	772.0	3	0	0	0
+773	773.0	1	0	0	0
+774	774.0	4	0	0	2
+775	775.0	2	0	0	2
+776	776.0	1	0	0	0
+777	777.0	2	0	0	1
+778	778.0	3	0	0	1
+779	779.0	2	0	0	2
+780	780.0	1	0	0	0
+781	781.0	2	0	0	1
+782	782.0	5	0	0	3
+783	783.0	1	0	0	0
+784	784.0	3	0	0	2
+785	785.0	1	0	1	1
+786	786.0	2	0	0	1
+787	787.0	4	0	0	1
+788	788.0	7	0	0	4
+789	789.0	2	0	0	1
+790	790.0	0	0	0	0
+791	791.0	2	0	0	2
+792	792.0	2	0	0	2
+793	793.0	2	0	0	0
+794	794.0	1	0	0	0
+795	795.0	2	0	0	0
+796	796.0	3	0	0	1
+797	797.0	2	0	1	2
+798	798.0	1	0	0	1
+799	799.0	3	0	1	1
+800	800.0	1	0	0	1
+801	801.0	5	0	0	5
+802	802.0	2	0	0	0
+803	803.0	2	0	0	0
+804	804.0	5	0	0	3
+805	805.0	2	0	0	2
+806	806.0	1	0	0	1
+807	807.0	1	0	0	0
+808	808.0	3	0	0	1
+809	809.0	1	0	0	1
+810	810.0	1	0	0	0
+811	811.0	2	0	0	1
+812	812.0	0	0	0	0
+813	813.0	0	0	0	0
+814	814.0	2	0	0	1
+815	815.0	0	0	0	0
+816	816.0	2	0	0	0
+817	817.0	1	0	0	1
+818	818.0	1	0	0	1
+819	819.0	3	0	0	1
+820	820.0	4	0	0	1
+821	821.0	2	0	0	2
+822	822.0	0	0	0	0
+823	823.0	4	0	0	1
+824	824.0	3	0	0	1
+825	825.0	2	0	0	1
+826	826.0	1	0	0	1
+827	827.0	2	0	0	2
+828	828.0	1	0	0	1
+829	829.0	4	0	0	2
+830	830.0	1	0	0	1
+831	831.0	1	0	0	0
+832	832.0	0	0	0	0
+833	833.0	1	0	0	1
+834	834.0	0	0	0	0
+835	835.0	2	0	0	2
+836	836.0	0	0	0	0
+837	837.0	3	0	0	2
+838	838.0	2	0	0	1
+839	839.0	2	0	0	0
+840	840.0	3	0	0	2
+841	841.0	2	0	0	0
+842	842.0	5	0	0	1
+843	843.0	1	0	0	0
+844	844.0	1	0	0	1
+845	845.0	0	0	0	0
+846	846.0	2	0	1	2
+847	847.0	1	0	0	0
+848	848.0	3	0	0	0
+849	849.0	3	0	0	1
+850	850.0	3	0	0	2
+851	851.0	1	0	0	1
+852	852.0	0	0	0	0
+853	853.0	0	0	0	0
+854	854.0	0	0	0	0
+855	855.0	3	0	0	1
+856	856.0	1	0	0	1
+857	857.0	0	0	0	0
+858	858.0	3	0	0	1
+859	859.0	1	0	0	0
+860	860.0	3	0	0	0
+861	861.0	2	0	0	1
+862	862.0	0	0	0	0
+863	863.0	0	0	0	0
+864	864.0	0	0	0	0
+865	865.0	1	0	0	1
+866	866.0	1	0	0	1
+867	867.0	2	0	0	1
+868	868.0	3	0	0	2
+869	869.0	2	0	0	1
+870	870.0	0	0	0	0
+871	871.0	0	0	0	0
+872	872.0	1	0	0	0
+873	873.0	1	0	0	0
+874	874.0	0	0	0	0
+875	875.0	2	0	0	2
+876	876.0	1	0	0	0
+877	877.0	1	0	0	0
+878	878.0	1	0	0	0
+879	879.0	1	0	0	0
+880	880.0	1	0	0	0
+881	881.0	0	0	0	0
+882	882.0	2	0	0	2
+883	883.0	0	0	0	0
+884	884.0	3	0	0	2
+885	885.0	0	0	0	0
+886	886.0	1	0	0	0
+887	887.0	3	0	0	0
+888	888.0	1	0	0	1
+889	889.0	1	0	0	0
+890	890.0	0	0	0	0
+891	891.0	1	0	0	1
+892	892.0	2	0	0	1
+893	893.0	3	0	0	2
+894	894.0	0	0	0	0
+895	895.0	0	0	0	0
+896	896.0	0	0	0	0
+897	897.0	1	0	0	0
+898	898.0	1	0	0	1
+899	899.0	1	0	0	1
+900	900.0	1	0	0	1
+901	901.0	1	0	0	1
+902	902.0	1	0	0	1
+903	903.0	2	0	0	2
+904	904.0	0	0	0	0
+905	905.0	0	0	0	0
+906	906.0	1	0	0	0
+907	907.0	2	0	0	1
+908	908.0	1	0	0	1
+909	909.0	0	0	0	0
+910	910.0	0	0	0	0
+911	911.0	0	0	0	0
+912	912.0	0	0	0	0
+913	913.0	4	0	0	1
+914	914.0	2	0	0	1
+915	915.0	0	0	0	0
+916	916.0	0	0	0	0
+917	917.0	1	0	0	0
+918	918.0	0	0	0	0
+919	919.0	2	0	0	0
+920	920.0	1	0	0	1
+921	921.0	2	0	0	0
+922	922.0	0	0	0	0
+923	923.0	0	0	0	0
+924	924.0	1	0	0	1
+925	925.0	1	0	0	1
+926	926.0	1	0	0	1
+927	927.0	0	0	0	0
+928	928.0	2	0	0	2
+929	929.0	0	0	0	0
+930	930.0	2	0	0	1
+931	931.0	1	0	0	0
+932	932.0	1	0	0	1
+933	933.0	3	0	0	1
+934	934.0	0	0	0	0
+935	935.0	0	0	0	0
+936	936.0	1	0	0	1
+937	937.0	0	0	0	0
+938	938.0	1	0	0	1
+939	939.0	1	0	0	1
+940	940.0	1	0	0	1
+941	941.0	1	0	0	0
+942	942.0	0	0	0	0
+943	943.0	2	0	0	1
+944	944.0	0	0	0	0
+945	945.0	1	0	0	1
+946	946.0	1	0	1	1
+947	947.0	0	0	0	0
+948	948.0	2	0	0	1
+949	949.0	0	0	0	0
+950	950.0	1	0	0	1
+951	951.0	1	0	0	1
+952	952.0	0	0	0	0
+953	953.0	0	0	0	0
+954	954.0	0	0	0	0
+955	955.0	0	0	0	0
+956	956.0	0	0	0	0
+957	957.0	1	0	1	1
+958	958.0	0	0	0	0
+959	959.0	0	0	0	0
+960	960.0	0	0	0	0
+961	961.0	0	0	0	0
+962	962.0	1	0	0	1
+963	963.0	0	0	0	0
+964	964.0	0	0	0	0
+965	965.0	0	0	0	0
+966	966.0	0	0	0	0
+967	967.0	1	0	0	1
+968	968.0	1	0	0	1
+969	969.0	0	0	0	0
+970	970.0	0	0	0	0
+971	971.0	0	0	0	0
+972	972.0	1	0	0	1
+973	973.0	0	0	0	0
+974	974.0	1	0	0	0
+975	975.0	0	0	0	0
+976	976.0	0	0	0	0
+977	977.0	0	0	0	0
+978	978.0	0	0	0	0
+979	979.0	0	0	0	0
+980	980.0	0	0	0	0
+981	981.0	0	0	0	0
+982	982.0	1	0	0	0
+983	983.0	0	0	0	0
+984	984.0	0	0	0	0
+985	985.0	0	0	0	0
+986	986.0	1	0	0	1
+987	987.0	0	0	0	0
+988	988.0	1	0	0	1
+989	989.0	1	0	0	0
+990	990.0	1	0	0	0
+991	991.0	0	0	0	0
+992	992.0	0	0	0	0
+993	993.0	0	0	0	0
+994	994.0	1	0	0	1
+995	995.0	0	0	0	0
+996	996.0	0	0	0	0
+997	997.0	0	0	0	0
+998	998.0	0	0	0	0
+999	999.0	1	0	0	1
+
+------------------------------------------------------------
+Sender: LSF System <lsf@fell0163>
+Subject: Job 37739: <java -Xmx2048m -classpath hps-java/target/hps-java-1.8-SNAPSHOT-bin.jar org.lcsim.hps.util.CalculateAcceptanceFromMadGraph -n 100 -e 6.6 -t TriComp -b 1.5> in cluster <slac> Done
+
+Job <java -Xmx2048m -classpath hps-java/target/hps-java-1.8-SNAPSHOT-bin.jar org.lcsim.hps.util.CalculateAcceptanceFromMadGraph -n 100 -e 6.6 -t TriComp -b 1.5> was submitted from host <noric43> by user <mgraham> in cluster <slac>.
+Job was executed on host(s) <fell0163>, in queue <xlong>, as user <mgraham> in cluster <slac>.
+</u/br/mgraham> was used as the home directory.
+</nfs/slac/g/hps/mgraham/DarkPhoton> was used as the working directory.
+Started at Mon Feb 24 19:02:06 2014
+Results reported at Mon Feb 24 19:03:44 2014
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+java -Xmx2048m -classpath hps-java/target/hps-java-1.8-SNAPSHOT-bin.jar org.lcsim.hps.util.CalculateAcceptanceFromMadGraph -n 100 -e 6.6 -t TriComp -b 1.5
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :               83.70 sec.
+    Max Memory :             568 MB
+    Average Memory :         443.00 MB
+    Total Requested Memory : -
+    Delta Memory :           -
+    (Delta: the difference between total requested memory and actual max usage.)
+    Max Swap :               2373 MB
+
+    Max Processes :          4
+    Max Threads :            24
+
+The output (if any) is above this job summary.
+
